@@ -29,7 +29,7 @@ function PIAGENCFG {
 	GETINFO
 	printf "{\n\t\"name\": \"Private Internet Access\",\n\t\"description\": \"This rule allows access to Private Internet Access servers.\",\n\t\"rules\": [\n" > $lsrule
 	for vpnbin in $ovpn; do
-		printf "\t\t{\n\t\t\t\"action\": \"allow\",\n\t\t\t\"direction\": [\"outgoing\", \"incoming\"],\n\t\t\t\"protocol\": [\"TCP\", \"UDP\"],\n\t\t\t\"process\": \"$vpnbin\",\n\t\t\t\"remote-hosts\": [%s]\n\t\t}\n" "$serverscsv" >> $lsrule
+		printf "\t\t{\n\t\t\t\"action\": \"allow\",\n\t\t\t\"direction\": \"outgoing\",\n\t\t\t\"protocol\": [\"TCP\", \"UDP\"],\n\t\t\t\"process\": \"$vpnbin\",\n\t\t\t\"remote-hosts\": [%s]\n\t\t}\n" "$serverscsv" >> $lsrule
 	done
 	printf "\t]\n}\n" >> $lsrule
 	cp $lsrule $PWD
