@@ -46,8 +46,8 @@ function PIAGENCFG {
 			#printf "%s : %s\n" "$vpnbin" "$host"
 			done
 
-			printf "\t\t{\n\t\t\t\"notes\": \"IP addresses are for %s.\",\n\t\t\t\"action\": \"allow\",\n\t\t\t\"direction\": \"incoming\",\n\t\t\t\"protocol\": \"%s\",\n\t\t\t\"process\": \"%s\",\n\t\t\t\"remote-addresses\": \"%s\"\n\t\t},\n" "$host" "$proto" "$vpnbin" "$(cat $rawip | sort -n | uniq | awk '{printf $0", "}' | sed 's/\", \"$//')" >> $lsrule
-			printf "\t\t{\n\t\t\t\"notes\": \"IP addresses are for %s.\",\n\t\t\t\"action\": \"allow\",\n\t\t\t\"direction\": \"outgoing\",\n\t\t\t\"protocol\": \"%s\",\n\t\t\t\"process\": \"%s\",\n\t\t\t\"remote-addresses\": \"%s\"\n\t\t},\n" "$host" "$proto" "$vpnbin" "$(cat $rawip | sort -n | uniq | awk '{printf $0", "}' | sed 's/\", \"$//')" >> $lsrule
+			printf "\t\t{\n\t\t\t\"notes\": \"IP addresses are for %s.\",\n\t\t\t\"action\": \"allow\",\n\t\t\t\"direction\": \"incoming\",\n\t\t\t\"protocol\": \"%s\",\n\t\t\t\"process\": \"%s\",\n\t\t\t\"remote-addresses\": \"%s\"\n\t\t},\n" "$host" "$proto" "$vpnbin" "$(cat $rawip | sort -n | uniq | awk '{printf $0", "}' | sed 's/\", \"$//' | sed 's/, $//')" >> $lsrule
+			printf "\t\t{\n\t\t\t\"notes\": \"IP addresses are for %s.\",\n\t\t\t\"action\": \"allow\",\n\t\t\t\"direction\": \"outgoing\",\n\t\t\t\"protocol\": \"%s\",\n\t\t\t\"process\": \"%s\",\n\t\t\t\"remote-addresses\": \"%s\"\n\t\t},\n" "$host" "$proto" "$vpnbin" "$(cat $rawip | sort -n | uniq | awk '{printf $0", "}' | sed 's/\", \"$//' | sed 's/, $//')" >> $lsrule
 			cat $rawip | sort -n | uniq | awk '{printf $0"\", \""}' | sed 's/\", \"$//'
 			rm -f $rawip
 		done
