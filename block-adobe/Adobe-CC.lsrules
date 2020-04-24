@@ -1,0 +1,247 @@
+{
+  "description" : "",
+  "name" : "Adobe-CC",
+  "rules" : [
+    {
+      "action" : "allow",
+      "creationDate" : 1587681865.811743,
+      "modificationDate" : 1587681865.811743,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587681849.8869848,
+      "modificationDate" : 1587681849.8869848,
+      "owner" : "me",
+      "ports" : "80",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "digicert.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587681877.66275,
+      "modificationDate" : 1587681877.66275,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com",
+      "via" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/Helpers\/LogTransport2.app\/Contents\/MacOS\/LogTransport2"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587681817.9773049,
+      "modificationDate" : 1587681817.9773049,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "acrobat.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587681837.9364939,
+      "modificationDate" : 1587681837.9364939,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587681823.9087701,
+      "modificationDate" : 1587681823.9087701,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587681872.526463,
+      "modificationDate" : 1587681872.526463,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/Helpers\/AdobeResourceSynchronizer.app\/Contents\/MacOS\/AdobeResourceSynchronizer",
+      "protocol" : "tcp",
+      "remote-domains" : "acrobat.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587681809.3983421,
+      "modificationDate" : 1587681809.3983421,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/Helpers\/AdobeResourceSynchronizer.app\/Contents\/MacOS\/AdobeResourceSynchronizer",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632950.9503241,
+      "modificationDate" : 1587632950.9503241,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/Helpers\/AdobeResourceSynchronizer.app\/Contents\/MacOS\/AdobeResourceSynchronizer",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632844.5972018,
+      "modificationDate" : 1587632844.5972018,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632856.066839,
+      "modificationDate" : 1587632856.066839,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632862.7371979,
+      "modificationDate" : 1587632862.7371979,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632895.943897,
+      "modificationDate" : 1587632895.943897,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobeoobe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587716964.915993,
+      "modificationDate" : 1587716964.915993,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Adobe_CCXProcess.node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587716364.7298799,
+      "modificationDate" : 1587716364.7298799,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Adobe_CCXProcess.node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632944.5450211,
+      "modificationDate" : 1587632944.5450211,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/LCC\/adobe_licensing_helper.app\/Contents\/MacOS\/adobe_licensing_helper",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632920.558933,
+      "modificationDate" : 1587632920.558933,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/LCC\/adobe_licensing_helper.app\/Contents\/MacOS\/adobe_licensing_helper",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587628664.981643,
+      "modificationDate" : 1587628664.981643,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632879.015651,
+      "modificationDate" : 1587632879.015651,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "adobesc.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587627639.757319,
+      "modificationDate" : 1587627639.757319,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "adobess.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587627065.733429,
+      "modificationDate" : 1587627065.733429,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "typekit.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632902.7041202,
+      "modificationDate" : 1587632902.7041202,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632926.9697309,
+      "modificationDate" : 1587632926.9697309,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "creationDate" : 1587632912.0293798,
+      "modificationDate" : 1587632912.0293798,
+      "owner" : "me",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    }
+  ]
+}
