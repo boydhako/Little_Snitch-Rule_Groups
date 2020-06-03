@@ -42,7 +42,7 @@ function PIAGENCFG {
 			printf "\n\n=== %s ===\n" "$host"
 			for namesrv in $nsservers; do
 				#dig \@$namesrv $host A 
-				dig \@$namesrv $host A | egrep -e "^$host" | awk '$4 == "A" {printf $NF"\n"}' >> $rawip
+				dig \@$namesrv $host A | awk '$4 == "A" {printf $NF"\n"}' >> $rawip
 			#printf "%s : %s\n" "$vpnbin" "$host"
 			done
 
@@ -56,6 +56,6 @@ function PIAGENCFG {
 	printf "\t]\n}\n" >> $lsrule
 	
 	cp $lsrule $PWD
-	CLEANUP
+	#CLEANUP
 }
 PIAGENCFG
