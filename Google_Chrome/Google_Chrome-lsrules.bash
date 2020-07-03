@@ -12,7 +12,9 @@ function GCHROMERULES {
 		for bin in $(find "$gcdir" -type f -name "Google Chrome Helper" | sed 's~ ~_~g'); do
 			gbin="$(echo $bin | sed -e 's~/~\\/~g' -e 's~_~ ~g')"
 			for proto in UDP TCP; do
-				printf "\t{\n\t\t\"action\" : \"allow\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"ports\" : \"443\",\n\t\t\"via\" : \"%s\",\n\t\t\"remote\" : \"any\"\n\t},\n" "$proto" "$proc" "$gbin"
+				for dport in 443 5228; do
+					printf "\t{\n\t\t\"action\" : \"allow\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"ports\" : \"%s\",\n\t\t\"via\" : \"%s\",\n\t\t\"remote\" : \"any\"\n\t},\n" "$proto" "$proc" "$dport" "$gbin"
+				done
 			done
 		done
 	fi
