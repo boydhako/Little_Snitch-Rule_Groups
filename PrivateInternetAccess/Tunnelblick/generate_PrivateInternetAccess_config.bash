@@ -56,6 +56,6 @@ function PIAGENCFG {
 	printf "\t]\n}\n" >> $lsrule
 	
 	cp $lsrule $PWD
-	#CLEANUP
+	CLEANUP
 }
 PIAGENCFG
