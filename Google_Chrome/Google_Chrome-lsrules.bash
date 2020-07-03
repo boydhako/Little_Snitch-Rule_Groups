@@ -16,6 +16,7 @@ function GCHROMERULES {
 					printf "\t{\n\t\t\"action\" : \"allow\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"ports\" : \"%s\",\n\t\t\"via\" : \"%s\",\n\t\t\"remote\" : \"any\"\n\t},\n" "$proto" "$proc" "$dport" "$gbin"
 				done
 			done
+			printf "\t{\n\t\t\"action\" : \"allow\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"ports\" : \"%s\",\n\t\t\"via\" : \"%s\",\n\t\t\"remote\" : \"redirector.gvt1.com\"\n\t},\n" "TCP" "$proc" "80" "$gbin"
 		done
 	fi
 }
