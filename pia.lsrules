@@ -40,7 +40,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 27.50.81.117, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.145, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.68.23, 27.50.77.247, 27.50.81.117, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221"
 		},
 		{
 			"notes": "IP addresses are for au-sydney.privateinternetaccess.com.",
@@ -48,7 +48,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 27.50.81.117, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.145, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.68.23, 27.50.77.247, 27.50.81.117, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221"
 		},
 		{
 			"notes": "IP addresses are for albania.privateinternetaccess.com.",
@@ -104,7 +104,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23, 185.232.21.26"
 		},
 		{
 			"notes": "IP addresses are for belgium.privateinternetaccess.com.",
@@ -112,7 +112,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23, 185.232.21.26"
 		},
 		{
 			"notes": "IP addresses are for ba.privateinternetaccess.com.",
@@ -584,7 +584,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "185.244.214.195, 185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for poland.privateinternetaccess.com.",
@@ -592,7 +592,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "185.244.214.195, 185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -600,7 +600,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "89.26.241.130"
+			"remote-addresses": "89.26.241.102, 89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -608,7 +608,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "89.26.241.130"
+			"remote-addresses": "89.26.241.102, 89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for ro.privateinternetaccess.com.",
@@ -936,7 +936,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "74.81.88.26, 74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.138, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170"
 		},
 		{
 			"notes": "IP addresses are for us-houston.privateinternetaccess.com.",
@@ -944,7 +944,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "74.81.88.26, 74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.138, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -952,7 +952,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "79.110.53.130, 79.110.53.146, 79.110.53.178, 79.110.53.194, 79.110.53.50, 79.110.53.66, 79.110.53.82, 162.251.236.4, 162.251.236.5, 162.251.236.6, 199.127.56.114, 199.127.56.115, 199.127.56.117, 199.127.56.119, 199.127.56.82, 199.127.56.83, 199.127.56.84, 199.127.56.86"
+			"remote-addresses": "79.110.53.130, 79.110.53.82, 79.110.53.98, 162.251.236.2, 162.251.236.6, 162.251.236.9, 199.127.56.114, 199.127.56.115, 199.127.56.117, 199.127.56.118, 199.127.56.119, 199.127.56.120, 199.127.56.121, 199.127.56.82, 199.127.56.86, 199.127.56.89"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -960,7 +960,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "79.110.53.130, 79.110.53.146, 79.110.53.178, 79.110.53.194, 79.110.53.50, 79.110.53.66, 79.110.53.82, 162.251.236.4, 162.251.236.5, 162.251.236.6, 199.127.56.114, 199.127.56.115, 199.127.56.117, 199.127.56.119, 199.127.56.82, 199.127.56.83, 199.127.56.84, 199.127.56.86"
+			"remote-addresses": "79.110.53.130, 79.110.53.82, 79.110.53.98, 162.251.236.2, 162.251.236.6, 162.251.236.9, 199.127.56.114, 199.127.56.115, 199.127.56.117, 199.127.56.118, 199.127.56.119, 199.127.56.120, 199.127.56.121, 199.127.56.82, 199.127.56.86, 199.127.56.89"
 		},
 		{
 			"notes": "IP addresses are for us-nyc.privateinternetaccess.com.",
@@ -1016,7 +1016,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "70.32.0.54, 70.32.0.56, 70.32.0.58, 70.32.0.73, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.53, 70.32.0.56, 70.32.0.58, 70.32.0.60, 70.32.0.67, 70.32.0.68, 70.32.0.69, 70.32.0.70, 70.32.0.73, 70.32.0.75, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-washingtondc.privateinternetaccess.com.",
@@ -1024,7 +1024,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": "70.32.0.54, 70.32.0.56, 70.32.0.58, 70.32.0.73, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.53, 70.32.0.56, 70.32.0.58, 70.32.0.60, 70.32.0.67, 70.32.0.68, 70.32.0.69, 70.32.0.70, 70.32.0.73, 70.32.0.75, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
@@ -1096,7 +1096,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 27.50.81.117, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.145, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221"
 		},
 		{
 			"notes": "IP addresses are for au-sydney.privateinternetaccess.com.",
@@ -1104,7 +1104,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 27.50.81.117, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.145, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221"
 		},
 		{
 			"notes": "IP addresses are for albania.privateinternetaccess.com.",
@@ -1160,7 +1160,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23, 185.232.21.26"
 		},
 		{
 			"notes": "IP addresses are for belgium.privateinternetaccess.com.",
@@ -1168,7 +1168,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23, 185.232.21.26"
 		},
 		{
 			"notes": "IP addresses are for ba.privateinternetaccess.com.",
@@ -1640,7 +1640,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for poland.privateinternetaccess.com.",
@@ -1648,7 +1648,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -1656,7 +1656,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "89.26.241.130"
+			"remote-addresses": "89.26.241.102, 89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -1664,7 +1664,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "89.26.241.130"
+			"remote-addresses": "89.26.241.102, 89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for ro.privateinternetaccess.com.",
@@ -1992,7 +1992,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "74.81.88.26, 74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.138, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170"
 		},
 		{
 			"notes": "IP addresses are for us-houston.privateinternetaccess.com.",
@@ -2000,7 +2000,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "74.81.88.26, 74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.138, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -2008,7 +2008,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.146, 79.110.53.162, 79.110.53.178, 79.110.53.194, 79.110.53.50, 79.110.53.66, 79.110.53.82, 79.110.53.98, 162.251.236.2, 162.251.236.4, 162.251.236.5, 162.251.236.6, 199.127.56.114, 199.127.56.115, 199.127.56.117, 199.127.56.119, 199.127.56.120, 199.127.56.121, 199.127.56.82, 199.127.56.83, 199.127.56.84, 199.127.56.86, 199.127.56.88, 199.127.56.89, 199.127.56.90"
+			"remote-addresses": "79.110.53.130, 79.110.53.146, 79.110.53.178, 79.110.53.210, 79.110.53.82, 79.110.53.98, 162.251.236.2, 162.251.236.4, 162.251.236.5, 162.251.236.6, 162.251.236.9, 199.127.56.114, 199.127.56.115, 199.127.56.116, 199.127.56.117, 199.127.56.118, 199.127.56.119, 199.127.56.120, 199.127.56.121, 199.127.56.82, 199.127.56.83, 199.127.56.86, 199.127.56.88, 199.127.56.89, 199.127.56.90, 199.127.56.91"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -2016,7 +2016,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.146, 79.110.53.162, 79.110.53.178, 79.110.53.194, 79.110.53.50, 79.110.53.66, 79.110.53.82, 79.110.53.98, 162.251.236.2, 162.251.236.4, 162.251.236.5, 162.251.236.6, 199.127.56.114, 199.127.56.115, 199.127.56.117, 199.127.56.119, 199.127.56.120, 199.127.56.121, 199.127.56.82, 199.127.56.83, 199.127.56.84, 199.127.56.86, 199.127.56.88, 199.127.56.89, 199.127.56.90"
+			"remote-addresses": "79.110.53.130, 79.110.53.146, 79.110.53.178, 79.110.53.210, 79.110.53.82, 79.110.53.98, 162.251.236.2, 162.251.236.4, 162.251.236.5, 162.251.236.6, 162.251.236.9, 199.127.56.114, 199.127.56.115, 199.127.56.116, 199.127.56.117, 199.127.56.118, 199.127.56.119, 199.127.56.120, 199.127.56.121, 199.127.56.82, 199.127.56.83, 199.127.56.86, 199.127.56.88, 199.127.56.89, 199.127.56.90, 199.127.56.91"
 		},
 		{
 			"notes": "IP addresses are for us-nyc.privateinternetaccess.com.",
@@ -2072,7 +2072,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "70.32.0.54, 70.32.0.56, 70.32.0.58, 70.32.0.73, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.53, 70.32.0.56, 70.32.0.58, 70.32.0.60, 70.32.0.61, 70.32.0.67, 70.32.0.68, 70.32.0.69, 70.32.0.70, 70.32.0.73, 70.32.0.75, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-washingtondc.privateinternetaccess.com.",
@@ -2080,7 +2080,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "70.32.0.54, 70.32.0.56, 70.32.0.58, 70.32.0.73, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.53, 70.32.0.56, 70.32.0.58, 70.32.0.60, 70.32.0.61, 70.32.0.67, 70.32.0.68, 70.32.0.69, 70.32.0.70, 70.32.0.73, 70.32.0.75, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
@@ -2088,7 +2088,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "184.170.241.194, 184.170.242.135, 184.170.242.199"
+			"remote-addresses": "184.170.241.130, 184.170.241.194, 184.170.242.135, 184.170.242.199"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
@@ -2096,7 +2096,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1g/openvpn",
-			"remote-addresses": "184.170.241.194, 184.170.242.135, 184.170.242.199"
+			"remote-addresses": "184.170.241.130, 184.170.241.194, 184.170.242.135, 184.170.242.199"
 		},
 		{
 			"notes": "IP addresses are for ua.privateinternetaccess.com.",
@@ -2152,7 +2152,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.145, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.68.23, 27.50.77.247, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
 		},
 		{
 			"notes": "IP addresses are for au-sydney.privateinternetaccess.com.",
@@ -2160,7 +2160,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.145, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.68.23, 27.50.77.247, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
 		},
 		{
 			"notes": "IP addresses are for albania.privateinternetaccess.com.",
@@ -2216,7 +2216,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23"
 		},
 		{
 			"notes": "IP addresses are for belgium.privateinternetaccess.com.",
@@ -2224,7 +2224,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23"
 		},
 		{
 			"notes": "IP addresses are for ba.privateinternetaccess.com.",
@@ -2712,7 +2712,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "89.26.241.130"
+			"remote-addresses": "89.26.241.102, 89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -2720,7 +2720,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "89.26.241.130"
+			"remote-addresses": "89.26.241.102, 89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for ro.privateinternetaccess.com.",
@@ -3048,7 +3048,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "74.81.88.26, 74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.130, 205.251.148.138, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170, 205.251.150.210"
 		},
 		{
 			"notes": "IP addresses are for us-houston.privateinternetaccess.com.",
@@ -3056,7 +3056,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "74.81.88.26, 74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.130, 205.251.148.138, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170, 205.251.150.210"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -3064,7 +3064,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "79.110.53.146, 79.110.53.194, 79.110.53.210, 79.110.53.34, 79.110.53.98, 162.251.236.6, 162.251.236.7, 162.251.236.9, 199.127.56.118, 199.127.56.120, 199.127.56.87, 199.127.56.90"
+			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.210, 79.110.53.34, 79.110.53.50, 79.110.53.66, 162.251.236.3, 162.251.236.4, 162.251.236.5, 162.251.236.7, 199.127.56.114, 199.127.56.116, 199.127.56.117, 199.127.56.118, 199.127.56.119, 199.127.56.120, 199.127.56.88, 199.127.56.89, 199.127.56.90, 199.127.56.91"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -3072,7 +3072,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "79.110.53.146, 79.110.53.194, 79.110.53.210, 79.110.53.34, 79.110.53.98, 162.251.236.6, 162.251.236.7, 162.251.236.9, 199.127.56.118, 199.127.56.120, 199.127.56.87, 199.127.56.90"
+			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.210, 79.110.53.34, 79.110.53.50, 79.110.53.66, 162.251.236.3, 162.251.236.4, 162.251.236.5, 162.251.236.7, 199.127.56.114, 199.127.56.116, 199.127.56.117, 199.127.56.118, 199.127.56.119, 199.127.56.120, 199.127.56.88, 199.127.56.89, 199.127.56.90, 199.127.56.91"
 		},
 		{
 			"notes": "IP addresses are for us-nyc.privateinternetaccess.com.",
@@ -3128,7 +3128,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "70.32.0.102, 70.32.0.54, 70.32.0.56, 70.32.0.58, 70.32.0.73, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.55, 70.32.0.58, 70.32.0.60, 70.32.0.61, 70.32.0.68, 70.32.0.69, 70.32.0.70, 70.32.0.73, 70.32.0.75, 70.32.0.77, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-washingtondc.privateinternetaccess.com.",
@@ -3136,7 +3136,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "70.32.0.102, 70.32.0.54, 70.32.0.56, 70.32.0.58, 70.32.0.73, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.55, 70.32.0.58, 70.32.0.60, 70.32.0.61, 70.32.0.68, 70.32.0.69, 70.32.0.70, 70.32.0.73, 70.32.0.75, 70.32.0.77, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
@@ -3144,7 +3144,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "184.170.241.194, 184.170.242.135, 184.170.242.199"
+			"remote-addresses": "184.170.241.130, 184.170.241.194, 184.170.242.135, 184.170.242.199"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
@@ -3152,7 +3152,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.0.2u/openvpn",
-			"remote-addresses": "184.170.241.194, 184.170.242.135, 184.170.242.199"
+			"remote-addresses": "184.170.241.130, 184.170.241.194, 184.170.242.135, 184.170.242.199"
 		},
 		{
 			"notes": "IP addresses are for ua.privateinternetaccess.com.",
@@ -3208,7 +3208,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 27.50.81.117, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.145, 221.121.145.147, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.70.87, 27.50.77.247, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
 		},
 		{
 			"notes": "IP addresses are for au-sydney.privateinternetaccess.com.",
@@ -3216,7 +3216,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 27.50.81.117, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.145, 221.121.145.147, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.70.87, 27.50.77.247, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
 		},
 		{
 			"notes": "IP addresses are for albania.privateinternetaccess.com.",
@@ -3272,7 +3272,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23, 185.232.21.26"
 		},
 		{
 			"notes": "IP addresses are for belgium.privateinternetaccess.com.",
@@ -3280,7 +3280,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23, 185.232.21.26"
 		},
 		{
 			"notes": "IP addresses are for ba.privateinternetaccess.com.",
@@ -3752,7 +3752,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for poland.privateinternetaccess.com.",
@@ -3760,7 +3760,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -3768,7 +3768,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "89.26.241.130"
+			"remote-addresses": "89.26.241.102, 89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -3776,7 +3776,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "89.26.241.130"
+			"remote-addresses": "89.26.241.102, 89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for ro.privateinternetaccess.com.",
@@ -4104,7 +4104,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "74.81.88.66, 74.81.88.74, 205.251.148.130, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170, 205.251.150.210"
 		},
 		{
 			"notes": "IP addresses are for us-houston.privateinternetaccess.com.",
@@ -4112,7 +4112,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "74.81.88.66, 74.81.88.74, 205.251.148.130, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170, 205.251.150.210"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -4120,7 +4120,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.146, 79.110.53.194, 79.110.53.210, 79.110.53.34, 79.110.53.66, 162.251.236.2, 162.251.236.3, 162.251.236.5, 162.251.236.6, 162.251.236.7, 162.251.236.8, 162.251.236.9, 199.127.56.114, 199.127.56.115, 199.127.56.117, 199.127.56.84, 199.127.56.86, 199.127.56.90"
+			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.146, 79.110.53.162, 79.110.53.178, 79.110.53.34, 79.110.53.82, 79.110.53.98, 162.251.236.3, 162.251.236.4, 162.251.236.5, 162.251.236.9, 199.127.56.114, 199.127.56.117, 199.127.56.120, 199.127.56.82, 199.127.56.83, 199.127.56.84, 199.127.56.88, 199.127.56.89"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -4128,7 +4128,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.146, 79.110.53.194, 79.110.53.210, 79.110.53.34, 79.110.53.66, 162.251.236.2, 162.251.236.3, 162.251.236.5, 162.251.236.6, 162.251.236.7, 162.251.236.8, 162.251.236.9, 199.127.56.114, 199.127.56.115, 199.127.56.117, 199.127.56.84, 199.127.56.86, 199.127.56.90"
+			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.146, 79.110.53.162, 79.110.53.178, 79.110.53.34, 79.110.53.82, 79.110.53.98, 162.251.236.3, 162.251.236.4, 162.251.236.5, 162.251.236.9, 199.127.56.114, 199.127.56.117, 199.127.56.120, 199.127.56.82, 199.127.56.83, 199.127.56.84, 199.127.56.88, 199.127.56.89"
 		},
 		{
 			"notes": "IP addresses are for us-nyc.privateinternetaccess.com.",
@@ -4184,7 +4184,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "70.32.0.102, 70.32.0.54, 70.32.0.56, 70.32.0.58, 70.32.0.66, 70.32.0.73, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.55, 70.32.0.58, 70.32.0.60, 70.32.0.61, 70.32.0.66, 70.32.0.68, 70.32.0.69, 70.32.0.73, 70.32.0.75, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-washingtondc.privateinternetaccess.com.",
@@ -4192,7 +4192,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "70.32.0.102, 70.32.0.54, 70.32.0.56, 70.32.0.58, 70.32.0.66, 70.32.0.73, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.55, 70.32.0.58, 70.32.0.60, 70.32.0.61, 70.32.0.66, 70.32.0.68, 70.32.0.69, 70.32.0.73, 70.32.0.75, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
@@ -4200,7 +4200,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "184.170.241.194, 184.170.242.135, 184.170.242.199"
+			"remote-addresses": "184.170.241.130, 184.170.241.194, 184.170.242.135, 184.170.242.199"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
@@ -4208,7 +4208,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.1.1g/openvpn",
-			"remote-addresses": "184.170.241.194, 184.170.242.135, 184.170.242.199"
+			"remote-addresses": "184.170.241.130, 184.170.241.194, 184.170.242.135, 184.170.242.199"
 		},
 		{
 			"notes": "IP addresses are for ua.privateinternetaccess.com.",
@@ -4264,7 +4264,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221"
+			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.81.117, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221"
 		},
 		{
 			"notes": "IP addresses are for au-sydney.privateinternetaccess.com.",
@@ -4272,7 +4272,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221"
+			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.81.117, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.43, 118.127.60.51, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221"
 		},
 		{
 			"notes": "IP addresses are for albania.privateinternetaccess.com.",
@@ -4328,7 +4328,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23"
 		},
 		{
 			"notes": "IP addresses are for belgium.privateinternetaccess.com.",
@@ -4336,7 +4336,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23"
 		},
 		{
 			"notes": "IP addresses are for ba.privateinternetaccess.com.",
@@ -4632,7 +4632,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "31.168.172.145"
+			"remote-addresses": "31.168.172.143, 31.168.172.145"
 		},
 		{
 			"notes": "IP addresses are for israel.privateinternetaccess.com.",
@@ -4640,7 +4640,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "31.168.172.145"
+			"remote-addresses": "31.168.172.143, 31.168.172.145"
 		},
 		{
 			"notes": "IP addresses are for italy.privateinternetaccess.com.",
@@ -4808,7 +4808,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for poland.privateinternetaccess.com.",
@@ -4816,7 +4816,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -4824,7 +4824,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "89.26.241.102, 89.26.241.130"
+			"remote-addresses": "89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -4832,7 +4832,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "89.26.241.102, 89.26.241.130"
+			"remote-addresses": "89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for ro.privateinternetaccess.com.",
@@ -5160,7 +5160,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "74.81.88.66, 74.81.88.74, 205.251.148.130, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.130, 205.251.148.98, 205.251.150.210"
 		},
 		{
 			"notes": "IP addresses are for us-houston.privateinternetaccess.com.",
@@ -5168,7 +5168,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "74.81.88.66, 74.81.88.74, 205.251.148.130, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.130, 205.251.148.98, 205.251.150.210"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -5176,7 +5176,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "79.110.53.146, 79.110.53.194, 79.110.53.34, 162.251.236.2, 162.251.236.3, 162.251.236.4, 162.251.236.6, 162.251.236.9, 199.127.56.115, 199.127.56.120, 199.127.56.82, 199.127.56.83, 199.127.56.89, 199.127.56.90"
+			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.146, 79.110.53.162, 79.110.53.178, 79.110.53.194, 79.110.53.34, 79.110.53.66, 79.110.53.82, 79.110.53.98, 162.251.236.3, 162.251.236.4, 162.251.236.5, 162.251.236.6, 162.251.236.7, 162.251.236.9, 199.127.56.114, 199.127.56.117, 199.127.56.118, 199.127.56.120, 199.127.56.121, 199.127.56.82, 199.127.56.83, 199.127.56.84, 199.127.56.88, 199.127.56.89, 199.127.56.90, 199.127.56.91"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -5184,7 +5184,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "79.110.53.146, 79.110.53.194, 79.110.53.34, 162.251.236.2, 162.251.236.3, 162.251.236.4, 162.251.236.6, 162.251.236.9, 199.127.56.115, 199.127.56.120, 199.127.56.82, 199.127.56.83, 199.127.56.89, 199.127.56.90"
+			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.146, 79.110.53.162, 79.110.53.178, 79.110.53.194, 79.110.53.34, 79.110.53.66, 79.110.53.82, 79.110.53.98, 162.251.236.3, 162.251.236.4, 162.251.236.5, 162.251.236.6, 162.251.236.7, 162.251.236.9, 199.127.56.114, 199.127.56.117, 199.127.56.118, 199.127.56.120, 199.127.56.121, 199.127.56.82, 199.127.56.83, 199.127.56.84, 199.127.56.88, 199.127.56.89, 199.127.56.90, 199.127.56.91"
 		},
 		{
 			"notes": "IP addresses are for us-nyc.privateinternetaccess.com.",
@@ -5240,7 +5240,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "70.32.0.102, 70.32.0.56, 70.32.0.58, 70.32.0.66, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.55, 70.32.0.58, 70.32.0.60, 70.32.0.61, 70.32.0.66, 70.32.0.68, 70.32.0.69, 70.32.0.70, 70.32.0.73, 70.32.0.75, 70.32.0.77, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-washingtondc.privateinternetaccess.com.",
@@ -5248,7 +5248,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5_beta3-openssl-1.0.2u/openvpn",
-			"remote-addresses": "70.32.0.102, 70.32.0.56, 70.32.0.58, 70.32.0.66, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.52, 70.32.0.55, 70.32.0.58, 70.32.0.60, 70.32.0.61, 70.32.0.66, 70.32.0.68, 70.32.0.69, 70.32.0.70, 70.32.0.73, 70.32.0.75, 70.32.0.77, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
@@ -5320,7 +5320,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.81.117, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.133, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
 		},
 		{
 			"notes": "IP addresses are for au-sydney.privateinternetaccess.com.",
@@ -5328,7 +5328,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.77.251, 103.13.102.115, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.131, 221.121.145.133, 221.121.145.137, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
+			"remote-addresses": "27.50.68.23, 27.50.70.87, 27.50.77.247, 27.50.81.117, 103.13.102.117, 103.13.102.119, 103.13.102.121, 103.13.102.123, 103.13.102.127, 118.127.60.51, 221.121.145.133, 221.121.145.143, 221.121.145.145, 221.121.145.147, 221.121.145.151, 221.121.145.159, 221.121.146.203, 221.121.146.217, 221.121.148.221, 221.121.152.215"
 		},
 		{
 			"notes": "IP addresses are for albania.privateinternetaccess.com.",
@@ -5384,7 +5384,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23"
 		},
 		{
 			"notes": "IP addresses are for belgium.privateinternetaccess.com.",
@@ -5392,7 +5392,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "77.243.191.18, 77.243.191.19, 77.243.191.23, 185.232.21.26"
+			"remote-addresses": "77.243.191.20, 77.243.191.23"
 		},
 		{
 			"notes": "IP addresses are for ba.privateinternetaccess.com.",
@@ -5864,7 +5864,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for poland.privateinternetaccess.com.",
@@ -5872,7 +5872,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "185.244.214.199, 185.244.214.200"
+			"remote-addresses": "185.244.214.195, 185.244.214.200"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -5880,7 +5880,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "89.26.241.102, 89.26.241.130"
+			"remote-addresses": "89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
@@ -5888,7 +5888,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "89.26.241.102, 89.26.241.130"
+			"remote-addresses": "89.26.241.130"
 		},
 		{
 			"notes": "IP addresses are for ro.privateinternetaccess.com.",
@@ -6216,7 +6216,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "74.81.88.74, 205.251.148.130, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170, 205.251.150.210"
 		},
 		{
 			"notes": "IP addresses are for us-houston.privateinternetaccess.com.",
@@ -6224,7 +6224,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "74.81.88.74, 205.251.148.130, 205.251.148.66, 205.251.150.170"
+			"remote-addresses": "74.81.88.42, 74.81.88.66, 74.81.88.74, 205.251.148.98, 205.251.150.170, 205.251.150.210"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -6232,7 +6232,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "79.110.53.130, 79.110.53.146, 79.110.53.162, 79.110.53.210, 79.110.53.34, 79.110.53.50, 79.110.53.66, 79.110.53.98, 162.251.236.5, 162.251.236.9, 199.127.56.114, 199.127.56.115, 199.127.56.116, 199.127.56.120, 199.127.56.82, 199.127.56.84, 199.127.56.87, 199.127.56.89"
+			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.210, 79.110.53.34, 79.110.53.50, 79.110.53.66, 162.251.236.3, 162.251.236.4, 162.251.236.5, 162.251.236.7, 199.127.56.114, 199.127.56.116, 199.127.56.117, 199.127.56.118, 199.127.56.119, 199.127.56.120, 199.127.56.88, 199.127.56.89, 199.127.56.90, 199.127.56.91"
 		},
 		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
@@ -6240,7 +6240,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "79.110.53.130, 79.110.53.146, 79.110.53.162, 79.110.53.210, 79.110.53.34, 79.110.53.50, 79.110.53.66, 79.110.53.98, 162.251.236.5, 162.251.236.9, 199.127.56.114, 199.127.56.115, 199.127.56.116, 199.127.56.120, 199.127.56.82, 199.127.56.84, 199.127.56.87, 199.127.56.89"
+			"remote-addresses": "79.110.53.114, 79.110.53.130, 79.110.53.210, 79.110.53.34, 79.110.53.50, 79.110.53.66, 162.251.236.3, 162.251.236.4, 162.251.236.5, 162.251.236.7, 199.127.56.114, 199.127.56.116, 199.127.56.117, 199.127.56.118, 199.127.56.119, 199.127.56.120, 199.127.56.88, 199.127.56.89, 199.127.56.90, 199.127.56.91"
 		},
 		{
 			"notes": "IP addresses are for us-nyc.privateinternetaccess.com.",
@@ -6296,7 +6296,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "70.32.0.102, 70.32.0.53, 70.32.0.56, 70.32.0.58, 70.32.0.66, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.55, 70.32.0.60, 70.32.0.61, 70.32.0.66, 70.32.0.68, 70.32.0.69, 70.32.0.73, 70.32.0.75, 70.32.0.76, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-washingtondc.privateinternetaccess.com.",
@@ -6304,7 +6304,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "70.32.0.102, 70.32.0.53, 70.32.0.56, 70.32.0.58, 70.32.0.66, 70.32.0.75"
+			"remote-addresses": "70.32.0.103, 70.32.0.48, 70.32.0.50, 70.32.0.55, 70.32.0.60, 70.32.0.61, 70.32.0.66, 70.32.0.68, 70.32.0.69, 70.32.0.73, 70.32.0.75, 70.32.0.76, 70.32.0.78"
 		},
 		{
 			"notes": "IP addresses are for us-west.privateinternetaccess.com.",
