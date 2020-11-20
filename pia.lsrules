@@ -3,19 +3,11 @@
 	"description": "This rule allows access to Private Internet Access servers.",
 	"rules": [
 		{
-		{
 			"notes": "IP addresses are for uk-southampton.privateinternetaccess.com.",
 			"action": "allow",
-			"notes": "IP addresses are for no.privateinternetaccess.com.",
 			"direction": "incoming",
-			"action": "allow",
 			"protocol": "UDP",
-			"direction": "incoming",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"protocol": "UDP",
-			"remote-addresses": ""
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-		},
 			"remote-addresses": ""
 		},
 		{
@@ -24,6 +16,14 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for no.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
 		{
@@ -59,27 +59,27 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for poland.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
-		{
-			"notes": "IP addresses are for poland.privateinternetaccess.com.",
 			"notes": "IP addresses are for us-atlanta.privateinternetaccess.com.",
 			"action": "allow",
-			"action": "allow",
-			"direction": "outgoing",
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"protocol": "UDP",
 			"remote-addresses": ""
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 		},
+		{
+			"notes": "IP addresses are for poland.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for poland.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
 		{
@@ -104,31 +104,31 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-		{
-			"remote-addresses": ""
-			"notes": "IP addresses are for pt.privateinternetaccess.com.",
-		},
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
-		{
 		{
 			"notes": "IP addresses are for us-california.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
+		{
 			"notes": "IP addresses are for pt.privateinternetaccess.com.",
 			"action": "allow",
-			"action": "allow",
-			"direction": "outgoing",
-			"direction": "outgoing",
+			"direction": "incoming",
 			"protocol": "UDP",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
-			"remote-addresses": ""
 		},
+		{
+			"notes": "IP addresses are for pt.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
 		},
 		{
 			"notes": "IP addresses are for au-sydney.privateinternetaccess.com.",
@@ -147,36 +147,36 @@
 			"remote-addresses": ""
 		},
 		{
-		{
 			"notes": "IP addresses are for us-chicago.privateinternetaccess.com.",
-			"notes": "IP addresses are for ro.privateinternetaccess.com.",
-			"action": "allow",
 			"action": "allow",
 			"direction": "incoming",
-			"direction": "incoming",
-			"protocol": "UDP",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for us-chicago.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for ro.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
-			"remote-addresses": ""
-		},
 		{
-		{
-			"notes": "IP addresses are for us-chicago.privateinternetaccess.com.",
 			"notes": "IP addresses are for ro.privateinternetaccess.com.",
 			"action": "allow",
-			"action": "allow",
-			"direction": "outgoing",
 			"direction": "outgoing",
 			"protocol": "UDP",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
-			"remote-addresses": ""
-		},
 		},
 		{
 			"notes": "IP addresses are for albania.privateinternetaccess.com.",
@@ -198,6 +198,14 @@
 			"notes": "IP addresses are for us-dal.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for us-dal.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
 			"remote-addresses": ""
@@ -208,14 +216,6 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
-			"notes": "IP addresses are for us-dal.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "outgoing",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
 			"remote-addresses": ""
 		},
 		{
@@ -251,14 +251,6 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sg.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for us-denver.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "outgoing",
@@ -269,6 +261,14 @@
 		{
 			"notes": "IP addresses are for sg.privateinternetaccess.com.",
 			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for sg.privateinternetaccess.com.",
+			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
@@ -291,34 +291,34 @@
 			"remote-addresses": ""
 		},
 		{
+			"notes": "IP addresses are for us-east.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for us-east.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
 		{
 			"notes": "IP addresses are for sk.privateinternetaccess.com.",
 			"action": "allow",
-			"notes": "IP addresses are for us-east.privateinternetaccess.com.",
 			"direction": "incoming",
-			"action": "allow",
 			"protocol": "UDP",
-			"direction": "incoming",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"remote-addresses": ""
-		},
 		{
-			"notes": "IP addresses are for us-east.privateinternetaccess.com.",
-			"action": "allow",
-		{
-			"direction": "outgoing",
 			"notes": "IP addresses are for sk.privateinternetaccess.com.",
-			"protocol": "UDP",
 			"action": "allow",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
 			"direction": "outgoing",
-			"remote-addresses": ""
 			"protocol": "UDP",
-		},
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
@@ -347,14 +347,6 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for za.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for us-florida.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "outgoing",
@@ -365,6 +357,14 @@
 		{
 			"notes": "IP addresses are for za.privateinternetaccess.com.",
 			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for za.privateinternetaccess.com.",
+			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
@@ -387,14 +387,6 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for spain.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for us-houston.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "incoming",
@@ -403,19 +395,27 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for spain.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "outgoing",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for us-houston.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for spain.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for spain.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
 		{
@@ -435,14 +435,6 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sweden.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "incoming",
@@ -451,19 +443,27 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sweden.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "outgoing",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for us-lasvegas.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for sweden.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for sweden.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
 		{
@@ -483,14 +483,6 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for swiss.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for us-nyc.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "incoming",
@@ -499,20 +491,28 @@
 			"remote-addresses": ""
 		},
 		{
-		{
-			"notes": "IP addresses are for swiss.privateinternetaccess.com.",
 			"notes": "IP addresses are for us-nyc.privateinternetaccess.com.",
 			"action": "allow",
-			"action": "allow",
-			"direction": "outgoing",
 			"direction": "outgoing",
 			"protocol": "UDP",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
 			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for swiss.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
 			"remote-addresses": ""
 		},
+		{
+			"notes": "IP addresses are for swiss.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
 		},
 		{
 			"notes": "IP addresses are for ca-ontario.privateinternetaccess.com.",
@@ -531,14 +531,6 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for tr.privateinternetaccess.com.",
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for us-sea.privateinternetaccess.com.",
 			"action": "allow",
 			"direction": "incoming",
@@ -547,20 +539,28 @@
 			"remote-addresses": ""
 		},
 		{
-		{
 			"notes": "IP addresses are for us-sea.privateinternetaccess.com.",
-			"notes": "IP addresses are for tr.privateinternetaccess.com.",
-			"action": "allow",
 			"action": "allow",
 			"direction": "outgoing",
-			"direction": "outgoing",
-			"protocol": "UDP",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-libressl-2.7.1/openvpn",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
-			"remote-addresses": ""
 			"remote-addresses": ""
 		},
+		{
+			"notes": "IP addresses are for tr.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for tr.privateinternetaccess.com.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1h/openvpn",
+			"remote-addresses": ""
 		},
 		{
 			"notes": "IP addresses are for ca-toronto.privateinternetaccess.com.",
