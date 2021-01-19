@@ -35,7 +35,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for japan.privacy.network.",
+			"notes": "IP addresses are for kazakhstan.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -43,7 +43,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for japan.privacy.network.",
+			"notes": "IP addresses are for kazakhstan.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -99,7 +99,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for kazakhstan.privacy.network.",
+			"notes": "IP addresses are for lv.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -107,7 +107,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for kazakhstan.privacy.network.",
+			"notes": "IP addresses are for lv.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -163,7 +163,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for lv.privacy.network.",
+			"notes": "IP addresses are for liechtenstein.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -171,7 +171,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for lv.privacy.network.",
+			"notes": "IP addresses are for liechtenstein.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -227,7 +227,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for liechtenstein.privacy.network.",
+			"notes": "IP addresses are for lt.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -235,7 +235,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for liechtenstein.privacy.network.",
+			"notes": "IP addresses are for lt.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -291,7 +291,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for lt.privacy.network.",
+			"notes": "IP addresses are for lu.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -299,7 +299,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for lt.privacy.network.",
+			"notes": "IP addresses are for lu.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -355,7 +355,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for lu.privacy.network.",
+			"notes": "IP addresses are for macau.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -363,7 +363,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for lu.privacy.network.",
+			"notes": "IP addresses are for macau.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -419,7 +419,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for macau.privacy.network.",
+			"notes": "IP addresses are for mk.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -427,7 +427,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for macau.privacy.network.",
+			"notes": "IP addresses are for mk.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -483,7 +483,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for mk.privacy.network.",
+			"notes": "IP addresses are for malta.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -491,7 +491,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for mk.privacy.network.",
+			"notes": "IP addresses are for malta.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -547,7 +547,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for malta.privacy.network.",
+			"notes": "IP addresses are for mexico.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -555,7 +555,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for malta.privacy.network.",
+			"notes": "IP addresses are for mexico.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -611,7 +611,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for mexico.privacy.network.",
+			"notes": "IP addresses are for md.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -619,7 +619,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for mexico.privacy.network.",
+			"notes": "IP addresses are for md.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -675,7 +675,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for md.privacy.network.",
+			"notes": "IP addresses are for monaco.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -683,7 +683,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for md.privacy.network.",
+			"notes": "IP addresses are for monaco.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -739,7 +739,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for monaco.privacy.network.",
+			"notes": "IP addresses are for mongolia.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -747,7 +747,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for monaco.privacy.network.",
+			"notes": "IP addresses are for mongolia.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -803,7 +803,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for mongolia.privacy.network.",
+			"notes": "IP addresses are for montenegro.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -811,7 +811,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for mongolia.privacy.network.",
+			"notes": "IP addresses are for montenegro.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -867,7 +867,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for montenegro.privacy.network.",
+			"notes": "IP addresses are for morocco.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -875,7 +875,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for montenegro.privacy.network.",
+			"notes": "IP addresses are for morocco.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -931,7 +931,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for morocco.privacy.network.",
+			"notes": "IP addresses are for nl-amsterdam.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -939,7 +939,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for morocco.privacy.network.",
+			"notes": "IP addresses are for nl-amsterdam.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -995,7 +995,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for nl-amsterdam.privacy.network.",
+			"notes": "IP addresses are for nz.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1003,7 +1003,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for nl-amsterdam.privacy.network.",
+			"notes": "IP addresses are for nz.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1059,7 +1059,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for nz.privacy.network.",
+			"notes": "IP addresses are for nigeria.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1067,7 +1067,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for nz.privacy.network.",
+			"notes": "IP addresses are for nigeria.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1123,7 +1123,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for nigeria.privacy.network.",
+			"notes": "IP addresses are for no.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1131,7 +1131,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for nigeria.privacy.network.",
+			"notes": "IP addresses are for no.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1187,7 +1187,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for no.privacy.network.",
+			"notes": "IP addresses are for panama.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1195,7 +1195,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for no.privacy.network.",
+			"notes": "IP addresses are for panama.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1251,7 +1251,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for panama.privacy.network.",
+			"notes": "IP addresses are for philippines.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1259,7 +1259,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for panama.privacy.network.",
+			"notes": "IP addresses are for philippines.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1315,7 +1315,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for philippines.privacy.network.",
+			"notes": "IP addresses are for poland.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1323,7 +1323,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for philippines.privacy.network.",
+			"notes": "IP addresses are for poland.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1379,7 +1379,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for poland.privacy.network.",
+			"notes": "IP addresses are for pt.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1387,7 +1387,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for poland.privacy.network.",
+			"notes": "IP addresses are for pt.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1443,7 +1443,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for pt.privacy.network.",
+			"notes": "IP addresses are for qatar.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1451,7 +1451,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for pt.privacy.network.",
+			"notes": "IP addresses are for qatar.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1507,7 +1507,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for qatar.privacy.network.",
+			"notes": "IP addresses are for ro.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1515,7 +1515,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for qatar.privacy.network.",
+			"notes": "IP addresses are for ro.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1571,7 +1571,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for ro.privacy.network.",
+			"notes": "IP addresses are for saudiarabia.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1579,7 +1579,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for ro.privacy.network.",
+			"notes": "IP addresses are for saudiarabia.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1635,7 +1635,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for saudiarabia.privacy.network.",
+			"notes": "IP addresses are for rs.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1643,7 +1643,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for saudiarabia.privacy.network.",
+			"notes": "IP addresses are for rs.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1699,7 +1699,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for rs.privacy.network.",
+			"notes": "IP addresses are for sg.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1707,7 +1707,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for rs.privacy.network.",
+			"notes": "IP addresses are for sg.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1763,7 +1763,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sg.privacy.network.",
+			"notes": "IP addresses are for sk.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1771,7 +1771,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sg.privacy.network.",
+			"notes": "IP addresses are for sk.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1827,7 +1827,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sk.privacy.network.",
+			"notes": "IP addresses are for za.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1835,7 +1835,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sk.privacy.network.",
+			"notes": "IP addresses are for za.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1891,7 +1891,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for za.privacy.network.",
+			"notes": "IP addresses are for spain.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1899,7 +1899,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for za.privacy.network.",
+			"notes": "IP addresses are for spain.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -1955,7 +1955,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for spain.privacy.network.",
+			"notes": "IP addresses are for srilanka.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -1963,7 +1963,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for spain.privacy.network.",
+			"notes": "IP addresses are for srilanka.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -2019,7 +2019,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for srilanka.privacy.network.",
+			"notes": "IP addresses are for sweden.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -2027,7 +2027,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for srilanka.privacy.network.",
+			"notes": "IP addresses are for sweden.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -2083,7 +2083,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sweden.privacy.network.",
+			"notes": "IP addresses are for swiss.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -2091,7 +2091,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for sweden.privacy.network.",
+			"notes": "IP addresses are for swiss.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -2147,7 +2147,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for swiss.privacy.network.",
+			"notes": "IP addresses are for taiwan.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -2155,7 +2155,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for swiss.privacy.network.",
+			"notes": "IP addresses are for taiwan.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -2211,7 +2211,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for taiwan.privacy.network.",
+			"notes": "IP addresses are for tr.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -2219,7 +2219,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for taiwan.privacy.network.",
+			"notes": "IP addresses are for tr.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
@@ -2275,7 +2275,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for tr.privacy.network.",
+			"notes": "IP addresses are for uk-london.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
 			"protocol": "UDP",
@@ -2283,7 +2283,7 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for tr.privacy.network.",
+			"notes": "IP addresses are for uk-london.privacy.network.",
 			"action": "allow",
 			"direction": "outgoing",
 			"protocol": "UDP",
