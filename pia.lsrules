@@ -2323,6 +2323,22 @@
 			"remote-addresses": ""
 		},
 		{
+			"notes": "IP addresses are for ireland.privacy.network.",
+			"action": "allow",
+			"direction": "incoming",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1i/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for ireland.privacy.network.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1i/openvpn",
+			"remote-addresses": ""
+		},
+		{
 			"notes": "IP addresses are for tr.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
@@ -2355,22 +2371,6 @@
 			"remote-addresses": ""
 		},
 		{
-			"notes": "IP addresses are for ireland.privacy.network.",
-			"action": "allow",
-			"direction": "incoming",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1i/openvpn",
-			"remote-addresses": ""
-		},
-		{
-			"notes": "IP addresses are for ireland.privacy.network.",
-			"action": "allow",
-			"direction": "outgoing",
-			"protocol": "UDP",
-			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1i/openvpn",
-			"remote-addresses": ""
-		},
-		{
 			"notes": "IP addresses are for nz.privacy.network.",
 			"action": "allow",
 			"direction": "incoming",
@@ -2387,12 +2387,20 @@
 			"remote-addresses": ""
 		},
 		{
+		{
 			"notes": "IP addresses are for uk-london.privacy.network.",
+			"notes": "IP addresses are for man.privacy.network.",
+			"action": "allow",
 			"action": "allow",
 			"direction": "incoming",
+			"direction": "incoming",
+			"protocol": "UDP",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1i/openvpn",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1i/openvpn",
 			"remote-addresses": ""
+			"remote-addresses": ""
+		},
 		},
 		{
 			"notes": "IP addresses are for uk-london.privacy.network.",
@@ -2400,6 +2408,14 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.0-openssl-1.1.1i/openvpn",
+			"remote-addresses": ""
+		},
+		{
+			"notes": "IP addresses are for man.privacy.network.",
+			"action": "allow",
+			"direction": "outgoing",
+			"protocol": "UDP",
+			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.9-openssl-1.1.1i/openvpn",
 			"remote-addresses": ""
 		},
 		{
