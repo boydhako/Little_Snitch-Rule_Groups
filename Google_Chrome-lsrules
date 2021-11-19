@@ -2,5 +2,85 @@
 	"name": "Google Chrome",
 	"description": "Google Chrome keeps changing it's path",
 	"rules": [
+	{
+		"action" : "allow",
+		"protocol" : "UDP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "443",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.69\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "UDP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "5228",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.69\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "TCP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "443",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.69\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "TCP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "5228",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.69\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "TCP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "80",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.69\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote-hosts" : "redirector.gvt1.com"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "UDP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "443",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.54\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "UDP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "5228",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.54\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "TCP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "443",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.54\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "TCP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "5228",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.54\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"protocol" : "TCP",
+		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
+		"ports" : "80",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/95.0.4638.54\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"remote-hosts" : "redirector.gvt1.com"
+	},
 	]
 }
