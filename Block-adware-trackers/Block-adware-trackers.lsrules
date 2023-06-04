@@ -1,0 +1,14 @@
+{
+  "description" : "",
+  "name" : "Block-adware-trackers",
+  "rules" : [
+    {
+      "action" : "deny",
+      "remote-domains" : "doubleclick.net"
+    },
+    {
+      "action" : "deny",
+      "remote-domains" : "online-metrix.net"
+    }
+  ]
+}
