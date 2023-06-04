@@ -135,26 +135,6 @@
     },
     {
       "action" : "allow",
-      "creationDate" : 1587716964.915993,
-      "modificationDate" : 1587716964.915993,
-      "owner" : "me",
-      "ports" : "443",
-      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Adobe_CCXProcess.node",
-      "protocol" : "tcp",
-      "remote-domains" : "adobe.com"
-    },
-    {
-      "action" : "allow",
-      "creationDate" : 1587716364.7298799,
-      "modificationDate" : 1587716364.7298799,
-      "owner" : "me",
-      "ports" : "443",
-      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Adobe_CCXProcess.node",
-      "protocol" : "tcp",
-      "remote-domains" : "adobelogin.com"
-    },
-    {
-      "action" : "allow",
       "creationDate" : 1587632944.5450211,
       "modificationDate" : 1587632944.5450211,
       "owner" : "me",

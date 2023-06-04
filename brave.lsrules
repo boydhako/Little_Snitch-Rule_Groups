@@ -1,0 +1,2876 @@
+{
+  "description" : "",
+  "name" : "brave",
+  "rules" : [
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "3.83.24.51"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "3.101.121.109"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "3.113.253.182"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "3.125.83.49"
+    },
+    {
+      "action" : "allow",
+      "ports" : "47750",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "5.2.214.6"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "5.9.58.232"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "5.75.225.127"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "18.119.107.88"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "18.178.128.152"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "18.221.187.22"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "23.88.59.5"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "23.95.67.65"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "23.95.67.204"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "31.220.87.10"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "34.135.222.180"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "37.187.153.107"
+    },
+    {
+      "action" : "allow",
+      "ports" : "23930",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.59.126.20"
+    },
+    {
+      "action" : "allow",
+      "ports" : "27198",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.59.126.20"
+    },
+    {
+      "action" : "allow",
+      "ports" : "27815",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.59.126.20"
+    },
+    {
+      "action" : "allow",
+      "ports" : "22733",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.59.126.44"
+    },
+    {
+      "action" : "allow",
+      "ports" : "23831",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.59.126.44"
+    },
+    {
+      "action" : "allow",
+      "ports" : "24621",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.59.126.44"
+    },
+    {
+      "action" : "allow",
+      "ports" : "26397",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.59.126.44"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "38.242.198.248"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "44.201.72.17"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "44.211.74.201"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.32.28.205"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.32.68.15"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.32.80.15"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.32.131.140"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.32.172.83"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.32.173.139"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.32.175.243"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.32.221.47"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.63.50.213"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.63.56.118"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.63.65.175"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.63.84.171"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.63.87.19"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.63.98.111"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.63.104.168"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.63.110.245"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.17.56"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.24.17"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.30.53"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.60.134"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.65.206"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.100.131"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.165.95"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.170.61"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.170.219"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.175.228"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.233.21"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.235.174"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.238.163"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.251.164"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.76.253.63"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.77.1.77"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.77.74.43"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.77.92.22"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.77.94.144"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.77.95.136"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.77.180.46"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.77.189.83"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.77.213.100"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.79.204.90"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.91.133.128"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.91.134.78"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.91.134.222"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.94.209.215"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.136.236.246"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "45.144.165.171"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "47.251.54.224"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "51.81.37.143"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "51.81.185.234"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "51.91.126.125"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "51.159.57.71"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "51.159.103.9"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "51.159.185.229"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "51.195.107.207"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "52.33.106.127"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "52.72.100.140"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "54.37.152.228"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "54.37.197.250"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "54.91.112.123"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "54.146.54.246"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "54.183.129.49"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "54.208.109.168"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "62.77.155.68"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "62.171.149.150"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "62.171.170.38"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "63.250.53.75"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "64.69.34.210"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "65.108.43.121"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.42.51.85"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.42.56.201"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.42.68.34"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.42.77.125"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.42.85.58"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.42.94.52"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.63.188.222"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.63.189.19"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.94.108.247"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.94.119.109"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.135.22.236"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.135.30.132"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "66.135.31.233"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "67.219.106.47"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "67.219.109.175"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "67.219.109.181"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "69.57.163.121"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "69.197.140.74"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "70.34.197.194"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "70.34.199.31"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "70.34.220.155"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "75.119.150.251"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "75.119.152.204"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "75.119.154.212"
+    },
+    {
+      "action" : "allow",
+      "ports" : "36585",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "76.87.143.175"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "78.141.207.212"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "78.141.210.239"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "78.141.223.149"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "79.132.137.95"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "79.143.179.52"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "80.240.16.164"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "81.0.219.193"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "81.30.157.78"
+    },
+    {
+      "action" : "allow",
+      "ports" : "61600",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "82.76.238.26"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "83.208.14.203"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "85.239.235.163"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "86.48.20.18"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4002",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "87.236.146.25"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "89.117.16.225"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "89.117.17.170"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "89.117.21.129"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "93.115.23.160"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "94.76.228.165"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "94.127.189.194"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "95.111.233.237"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "95.111.243.182"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "95.179.131.50"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "95.179.182.58"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "95.179.207.131"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "95.216.184.200"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "95.217.35.160"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "95.217.78.43"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "98.123.14.53"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "99.149.120.56"
+    },
+    {
+      "action" : "allow",
+      "ports" : "34366",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "100.34.79.215"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.129.20.155"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.131.131.82"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.156.238.71"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.156.247.81"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.156.253.251"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.168.48.207"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.168.53.114"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.168.59.18"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.168.64.89"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.207.146.110"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.207.148.10"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.207.150.238"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.207.153.223"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.207.153.225"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.238.138.7"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.238.138.86"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.238.141.189"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.238.152.108"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.238.180.234"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.238.181.61"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "104.248.194.175"
+    },
+    {
+      "action" : "allow",
+      "ports" : "52149",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "105.243.126.26"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "107.173.122.206"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "107.174.121.208"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "107.174.205.143"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "107.218.41.178"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "108.61.193.160"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "108.61.206.137"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "108.61.207.109"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "108.61.217.164"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "108.62.116.216"
+    },
+    {
+      "action" : "allow",
+      "ports" : "55049",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "108.168.66.206"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "109.123.252.145"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "119.29.54.13"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "120.108.111.236"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "120.108.111.237"
+    },
+    {
+      "action" : "allow",
+      "ports" : "65017",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "122.222.251.3"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "129.213.53.177"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "130.185.118.114"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "135.181.38.18"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "135.181.47.239"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "136.244.83.153"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "137.184.24.48"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "137.220.34.64"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "137.220.40.35"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "137.220.57.240"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "137.220.58.175"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "137.220.63.39"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "138.2.224.116"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "138.197.14.6"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "139.144.111.112"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "139.162.148.222"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "139.178.91.71"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "139.180.136.56"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "139.180.143.157"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "139.180.207.184"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "140.82.20.46"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "140.82.24.198"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "140.82.40.208"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "140.82.51.135"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "140.82.51.177"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "140.82.62.76"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "141.95.66.25"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "141.98.10.103"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "141.98.17.54"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "141.98.17.223"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "141.164.37.12"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "141.164.38.79"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "141.164.48.194"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "142.44.210.11"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "142.132.198.35"
+    },
+    {
+      "action" : "allow",
+      "ports" : "5228",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "142.250.101.188"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "143.198.190.104"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.91.91.151"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.91.109.138"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.126.147.220"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.126.151.223"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.19.129"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.29.248"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.37.57"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.42.82"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.46.190"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.59.165"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.60.209"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.64.69"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.71.98"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.71.233"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.77.236"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.93.105"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.100.175"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.110.108"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.112.156"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.112.240"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.116.40"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "144.202.121.73"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "145.40.65.77"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "145.40.118.135"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "147.75.87.27"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "147.182.206.44"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "147.182.223.21"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.17.139"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.65.142"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.76.238"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.78.109"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.93.218"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.107.196"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.193.43"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.195.73"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.199.229"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.202.227"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.205.59"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.209.215"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.218.170"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.219.110"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.28.254.47"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.102.141.25"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.102.141.106"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.102.155.39"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.202.29.168"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.248.10.17"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.248.13.72"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.248.50.11"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.248.62.45"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.248.63.132"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "149.248.63.164"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "154.12.224.112"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "154.12.236.71"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "154.38.166.133"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "154.53.47.252"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.134.74"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.135.61"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.140.118"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.162.109"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.165.230"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.196.177"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.199.238"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.204.220"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.206.91"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.213.237"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.215.130"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.224.85"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.225.29"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.242.185"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "155.138.244.131"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "157.90.181.211"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.69.26.101"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.220.100.183"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.247.208.180"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.247.214.176"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.247.221.39"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.247.222.109"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.247.226.121"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.247.226.130"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "158.247.235.42"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "159.65.3.84"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "159.89.224.189"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "159.203.17.19"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "159.223.9.103"
+    },
+    {
+      "action" : "allow",
+      "ports" : "7001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "161.35.212.85"
+    },
+    {
+      "action" : "allow",
+      "ports" : "9001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "161.35.212.85"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "161.97.109.248"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "161.97.114.11"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.19.169.49"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "162.243.162.221"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "163.215.14.19"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "164.68.102.169"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "164.92.145.72"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "167.86.79.35"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "167.86.90.88"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "167.235.67.18"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "168.119.172.178"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "172.104.141.127"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "172.104.228.137"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "173.82.99.91"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "173.82.140.87"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "173.82.236.42"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "173.249.53.140"
+    },
+    {
+      "action" : "allow",
+      "ports" : "38519",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "176.194.248.43"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "178.18.253.188"
+    },
+    {
+      "action" : "allow",
+      "ports" : "55956",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "183.230.248.83"
+    },
+    {
+      "action" : "allow",
+      "ports" : "60766",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "183.230.248.226"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "185.130.44.40"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "185.198.27.156"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "185.215.165.75"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "185.215.224.79"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "185.225.232.117"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "185.239.208.183"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "192.3.76.46"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "192.80.107.32"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "192.145.37.236"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "192.210.213.34"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "192.241.157.150"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "192.248.173.56"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "192.248.174.226"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "192.248.191.89"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4002",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "193.0.61.175"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "193.8.130.167"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "193.8.130.199"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "193.11.118.5"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "193.201.15.32"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "193.223.242.114"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "194.26.213.98"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "194.32.76.59"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "194.35.120.4"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "194.163.175.13"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "198.46.215.64"
+    },
+    {
+      "action" : "allow",
+      "ports" : "46898",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "199.30.72.233"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "206.189.155.104"
+    },
+    {
+      "action" : "allow",
+      "ports" : "18658",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.60.130.60"
+    },
+    {
+      "action" : "allow",
+      "ports" : "19272",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.60.130.60"
+    },
+    {
+      "action" : "allow",
+      "ports" : "19772",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.60.147.244"
+    },
+    {
+      "action" : "allow",
+      "ports" : "26711",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.60.147.244"
+    },
+    {
+      "action" : "allow",
+      "ports" : "28530",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.60.147.244"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.148.8.167"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.148.10.173"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.148.113.122"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.180.242.162"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.180.242.207"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.210.212.114"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.244.235.51"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.246.69.97"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.246.69.209"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.246.71.98"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.246.91.35"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.246.106.219"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.246.116.96"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "207.246.117.104"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "208.68.37.215"
+    },
+    {
+      "action" : "allow",
+      "ports" : "46052",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "208.83.226.157"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "208.85.19.169"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "208.167.253.57"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "209.145.48.244"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "209.250.251.39"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "213.239.221.164"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.128.129.10"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.128.129.131"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.128.131.99"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.128.141.251"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.128.142.155"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.128.145.229"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.128.183.137"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.238.81.3"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "216.238.81.231"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "217.76.52.91"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "217.76.52.112"
+    },
+    {
+      "action" : "allow",
+      "ports" : "7794",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "222.77.240.90"
+    },
+    {
+      "action" : "allow",
+      "ports" : "23314",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-addresses" : "223.17.191.234"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "104.131.131.82"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "119.59.124.197"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "139.178.91.71"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "140.82.62.76"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "145.40.65.77"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "147.75.87.27"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "167.86.79.35"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "2604:1380:45d2:8100::1"
+    },
+    {
+      "action" : "allow",
+      "ports" : "4001",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote-addresses" : "2604:1380:4602:5c00::3"
+    },
+    {
+      "action" : "allow",
+      "ports" : "80",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote-domains" : "brave-http-only.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "80",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "1900",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote" : "any"
+    }
+  ]
+}
