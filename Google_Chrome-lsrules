@@ -47,7 +47,7 @@
 		"protocol" : "UDP",
 		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
 		"ports" : "443",
-		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.123\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.199\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
 		"remote" : "any"
 	},
 	{
@@ -55,7 +55,7 @@
 		"protocol" : "UDP",
 		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
 		"ports" : "5228",
-		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.123\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.199\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
 		"remote" : "any"
 	},
 	{
@@ -63,7 +63,7 @@
 		"protocol" : "TCP",
 		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
 		"ports" : "443",
-		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.123\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.199\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
 		"remote" : "any"
 	},
 	{
@@ -71,7 +71,7 @@
 		"protocol" : "TCP",
 		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
 		"ports" : "5228",
-		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.123\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.199\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
 		"remote" : "any"
 	},
 	{
@@ -79,7 +79,7 @@
 		"protocol" : "TCP",
 		"process" : "\/Applications\/Google Chrome.app\/Contents\/MacOS\/Google Chrome",
 		"ports" : "80",
-		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.123\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
+		"via" : "\/Applications\/Google Chrome.app\/Contents\/Frameworks\/Google Chrome Framework.framework\/Versions\/119.0.6045.199\/Helpers\/Google Chrome Helper.app\/Contents\/MacOS\/Google Chrome Helper",
 		"remote-hosts" : "redirector.gvt1.com"
 	},
 	]
