@@ -2280,7 +2280,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "37.46.113.194, 37.46.113.217"
+			"remote-addresses": "37.46.113.180, 37.46.113.207, 37.46.113.208"
 		},
 		{
 			"notes": "IP addresses are for lu.privacy.network.",
@@ -2288,7 +2288,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "37.46.113.194, 37.46.113.217"
+			"remote-addresses": "37.46.113.180, 37.46.113.207, 37.46.113.208"
 		},
 		{
 			"notes": "IP addresses are for macau.privacy.network.",
@@ -3064,7 +3064,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "107.181.184.215, 107.181.184.221, 184.170.252.205"
+			"remote-addresses": "107.181.184.215, 107.181.184.221, 184.170.241.133, 184.170.241.136, 184.170.252.205"
 		},
 		{
 			"notes": "IP addresses are for us3.privacy.network.",
@@ -3072,7 +3072,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.3.18-openssl-1.0.2u/openvpn",
-			"remote-addresses": "107.181.184.215, 107.181.184.221, 184.170.252.205"
+			"remote-addresses": "107.181.184.215, 107.181.184.221, 184.170.241.133, 184.170.241.136, 184.170.252.205"
 		},
 		{
 			"notes": "IP addresses are for venezuela.privacy.network.",
@@ -3464,7 +3464,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "191.101.157.181, 191.101.157.190, 191.101.157.22"
+			"remote-addresses": "191.101.157.14, 191.101.157.149, 191.101.157.28"
 		},
 		{
 			"notes": "IP addresses are for de-berlin.privacy.network.",
@@ -3472,7 +3472,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "191.101.157.181, 191.101.157.190, 191.101.157.22"
+			"remote-addresses": "191.101.157.14, 191.101.157.149, 191.101.157.28"
 		},
 		{
 			"notes": "IP addresses are for de-frankfurt.privacy.network.",
@@ -3496,7 +3496,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "46.246.106.43, 188.126.94.109, 188.126.94.113"
+			"remote-addresses": "46.246.106.43, 188.126.94.108, 188.126.94.109, 188.126.94.113, 188.126.94.126"
 		},
 		{
 			"notes": "IP addresses are for denmark.privacy.network.",
@@ -3504,7 +3504,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "46.246.106.43, 188.126.94.109, 188.126.94.113"
+			"remote-addresses": "46.246.106.43, 188.126.94.108, 188.126.94.109, 188.126.94.113, 188.126.94.126"
 		},
 		{
 			"notes": "IP addresses are for egypt.privacy.network.",
@@ -3704,7 +3704,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "91.90.124.26, 91.90.124.7, 91.90.124.8"
+			"remote-addresses": "91.90.124.11, 91.90.124.26, 91.90.124.4, 91.90.124.5, 91.90.124.7, 91.90.124.8"
 		},
 		{
 			"notes": "IP addresses are for man.privacy.network.",
@@ -3712,7 +3712,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "91.90.124.26, 91.90.124.7, 91.90.124.8"
+			"remote-addresses": "91.90.124.11, 91.90.124.26, 91.90.124.4, 91.90.124.5, 91.90.124.7, 91.90.124.8"
 		},
 		{
 			"notes": "IP addresses are for israel.privacy.network.",
@@ -3768,7 +3768,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "62.133.47.18, 62.133.47.19, 62.133.47.8"
+			"remote-addresses": "62.133.47.15, 62.133.47.16, 62.133.47.17, 62.133.47.19, 62.133.47.8"
 		},
 		{
 			"notes": "IP addresses are for kazakhstan.privacy.network.",
@@ -3776,7 +3776,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "62.133.47.18, 62.133.47.19, 62.133.47.8"
+			"remote-addresses": "62.133.47.15, 62.133.47.16, 62.133.47.17, 62.133.47.19, 62.133.47.8"
 		},
 		{
 			"notes": "IP addresses are for lv.privacy.network.",
@@ -3832,7 +3832,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "37.46.113.194, 37.46.113.217"
+			"remote-addresses": "37.46.113.180, 37.46.113.207, 37.46.113.208"
 		},
 		{
 			"notes": "IP addresses are for lu.privacy.network.",
@@ -3840,7 +3840,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "37.46.113.194, 37.46.113.217"
+			"remote-addresses": "37.46.113.180, 37.46.113.207, 37.46.113.208"
 		},
 		{
 			"notes": "IP addresses are for macau.privacy.network.",
@@ -3960,7 +3960,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "176.125.229.14, 176.125.229.19, 176.125.229.8"
+			"remote-addresses": "176.125.229.17, 176.125.229.28, 176.125.229.3"
 		},
 		{
 			"notes": "IP addresses are for montenegro.privacy.network.",
@@ -3968,7 +3968,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "176.125.229.14, 176.125.229.19, 176.125.229.8"
+			"remote-addresses": "176.125.229.17, 176.125.229.28, 176.125.229.3"
 		},
 		{
 			"notes": "IP addresses are for morocco.privacy.network.",
@@ -4104,7 +4104,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "146.70.59.18, 146.70.59.37, 146.70.59.42"
+			"remote-addresses": "146.70.59.18, 146.70.59.37, 146.70.59.40, 146.70.59.42, 146.70.59.48, 146.70.59.8"
 		},
 		{
 			"notes": "IP addresses are for pt.privacy.network.",
@@ -4112,7 +4112,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "146.70.59.18, 146.70.59.37, 146.70.59.42"
+			"remote-addresses": "146.70.59.18, 146.70.59.37, 146.70.59.40, 146.70.59.42, 146.70.59.48, 146.70.59.8"
 		},
 		{
 			"notes": "IP addresses are for qatar.privacy.network.",
@@ -4264,7 +4264,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "46.246.41.170, 46.246.41.172, 46.246.8.70"
+			"remote-addresses": "46.246.41.170, 46.246.41.172, 46.246.8.33, 46.246.8.5, 46.246.8.70, 46.246.8.84"
 		},
 		{
 			"notes": "IP addresses are for sweden.privacy.network.",
@@ -4272,7 +4272,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "46.246.41.170, 46.246.41.172, 46.246.8.70"
+			"remote-addresses": "46.246.41.170, 46.246.41.172, 46.246.8.33, 46.246.8.5, 46.246.8.70, 46.246.8.84"
 		},
 		{
 			"notes": "IP addresses are for swiss.privacy.network.",
@@ -4280,7 +4280,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "169.150.197.131, 169.150.197.72, 212.102.36.27"
+			"remote-addresses": "79.142.79.42, 169.150.197.85, 169.150.197.88"
 		},
 		{
 			"notes": "IP addresses are for swiss.privacy.network.",
@@ -4288,7 +4288,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "169.150.197.131, 169.150.197.72, 212.102.36.27"
+			"remote-addresses": "79.142.79.42, 169.150.197.85, 169.150.197.88"
 		},
 		{
 			"notes": "IP addresses are for taiwan.privacy.network.",
@@ -4440,7 +4440,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "181.214.164.129, 181.214.165.205, 181.214.166.223"
+			"remote-addresses": "181.214.164.20, 181.214.164.37, 212.102.59.130"
 		},
 		{
 			"notes": "IP addresses are for us-chicago.privacy.network.",
@@ -4448,7 +4448,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "181.214.164.129, 181.214.165.205, 181.214.166.223"
+			"remote-addresses": "181.214.164.20, 181.214.164.37, 212.102.59.130"
 		},
 		{
 			"notes": "IP addresses are for us-denver.privacy.network.",
@@ -4616,7 +4616,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "107.181.184.215, 107.181.184.221, 184.170.252.205"
+			"remote-addresses": "184.170.241.133, 184.170.241.136, 184.170.241.98"
 		},
 		{
 			"notes": "IP addresses are for us3.privacy.network.",
@@ -4624,7 +4624,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.5.9-openssl-1.1.1v/openvpn",
-			"remote-addresses": "107.181.184.215, 107.181.184.221, 184.170.252.205"
+			"remote-addresses": "184.170.241.133, 184.170.241.136, 184.170.241.98"
 		},
 		{
 			"notes": "IP addresses are for venezuela.privacy.network.",
@@ -4664,7 +4664,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "31.171.154.116, 31.171.154.70, 31.171.154.78"
+			"remote-addresses": "31.171.154.120, 31.171.154.131, 31.171.154.69"
 		},
 		{
 			"notes": "IP addresses are for al.privacy.network.",
@@ -4672,7 +4672,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "31.171.154.116, 31.171.154.70, 31.171.154.78"
+			"remote-addresses": "31.171.154.120, 31.171.154.131, 31.171.154.69"
 		},
 		{
 			"notes": "IP addresses are for dz.privacy.network.",
@@ -4728,7 +4728,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "185.253.160.10, 185.253.160.11, 185.253.160.12"
+			"remote-addresses": "185.253.160.10, 185.253.160.11, 185.253.160.12, 185.253.160.13, 185.253.160.3"
 		},
 		{
 			"notes": "IP addresses are for yerevan.privacy.network.",
@@ -4736,7 +4736,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "185.253.160.10, 185.253.160.11, 185.253.160.12"
+			"remote-addresses": "185.253.160.10, 185.253.160.11, 185.253.160.12, 185.253.160.13, 185.253.160.3"
 		},
 		{
 			"notes": "IP addresses are for aus-melbourne.privacy.network.",
@@ -4968,7 +4968,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "188.241.80.48, 188.241.80.63, 188.241.80.65"
+			"remote-addresses": "188.241.80.34, 188.241.80.57, 188.241.80.64"
 		},
 		{
 			"notes": "IP addresses are for china.privacy.network.",
@@ -4976,7 +4976,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "188.241.80.48, 188.241.80.63, 188.241.80.65"
+			"remote-addresses": "188.241.80.34, 188.241.80.57, 188.241.80.64"
 		},
 		{
 			"notes": "IP addresses are for cyprus.privacy.network.",
@@ -5016,7 +5016,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "191.101.157.181, 191.101.157.190, 191.101.157.22"
+			"remote-addresses": "191.101.157.14, 191.101.157.149, 191.101.157.28"
 		},
 		{
 			"notes": "IP addresses are for de-berlin.privacy.network.",
@@ -5024,7 +5024,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "191.101.157.181, 191.101.157.190, 191.101.157.22"
+			"remote-addresses": "191.101.157.14, 191.101.157.149, 191.101.157.28"
 		},
 		{
 			"notes": "IP addresses are for de-frankfurt.privacy.network.",
@@ -5048,7 +5048,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "46.246.106.43, 188.126.94.109, 188.126.94.113"
+			"remote-addresses": "188.126.94.108, 188.126.94.126, 188.126.94.69"
 		},
 		{
 			"notes": "IP addresses are for denmark.privacy.network.",
@@ -5056,7 +5056,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "46.246.106.43, 188.126.94.109, 188.126.94.113"
+			"remote-addresses": "188.126.94.108, 188.126.94.126, 188.126.94.69"
 		},
 		{
 			"notes": "IP addresses are for egypt.privacy.network.",
@@ -5256,7 +5256,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "91.90.124.26, 91.90.124.7, 91.90.124.8"
+			"remote-addresses": "91.90.124.11, 91.90.124.4, 91.90.124.5"
 		},
 		{
 			"notes": "IP addresses are for man.privacy.network.",
@@ -5264,7 +5264,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "91.90.124.26, 91.90.124.7, 91.90.124.8"
+			"remote-addresses": "91.90.124.11, 91.90.124.4, 91.90.124.5"
 		},
 		{
 			"notes": "IP addresses are for israel.privacy.network.",
@@ -5304,7 +5304,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "154.47.20.17, 154.47.20.31"
+			"remote-addresses": "138.199.39.20, 154.47.20.2, 154.47.20.9"
 		},
 		{
 			"notes": "IP addresses are for japan.privacy.network.",
@@ -5312,7 +5312,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "154.47.20.17, 154.47.20.31"
+			"remote-addresses": "138.199.39.20, 154.47.20.2, 154.47.20.9"
 		},
 		{
 			"notes": "IP addresses are for kazakhstan.privacy.network.",
@@ -5320,7 +5320,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "62.133.47.18, 62.133.47.19, 62.133.47.8"
+			"remote-addresses": "62.133.47.15, 62.133.47.16, 62.133.47.17, 62.133.47.18, 62.133.47.19, 62.133.47.8"
 		},
 		{
 			"notes": "IP addresses are for kazakhstan.privacy.network.",
@@ -5328,7 +5328,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "62.133.47.18, 62.133.47.19, 62.133.47.8"
+			"remote-addresses": "62.133.47.15, 62.133.47.16, 62.133.47.17, 62.133.47.18, 62.133.47.19, 62.133.47.8"
 		},
 		{
 			"notes": "IP addresses are for lv.privacy.network.",
@@ -5384,7 +5384,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "37.46.113.194, 37.46.113.217"
+			"remote-addresses": "37.46.113.180, 37.46.113.207, 37.46.113.208"
 		},
 		{
 			"notes": "IP addresses are for lu.privacy.network.",
@@ -5392,7 +5392,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "37.46.113.194, 37.46.113.217"
+			"remote-addresses": "37.46.113.180, 37.46.113.207, 37.46.113.208"
 		},
 		{
 			"notes": "IP addresses are for macau.privacy.network.",
@@ -5512,7 +5512,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "176.125.229.14, 176.125.229.19, 176.125.229.8"
+			"remote-addresses": "176.125.229.17, 176.125.229.28, 176.125.229.3"
 		},
 		{
 			"notes": "IP addresses are for montenegro.privacy.network.",
@@ -5520,7 +5520,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "176.125.229.14, 176.125.229.19, 176.125.229.8"
+			"remote-addresses": "176.125.229.17, 176.125.229.28, 176.125.229.3"
 		},
 		{
 			"notes": "IP addresses are for morocco.privacy.network.",
@@ -5640,7 +5640,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "138.199.59.197, 138.199.59.208, 138.199.59.37"
+			"remote-addresses": "138.199.59.204, 138.199.59.217, 138.199.59.56"
 		},
 		{
 			"notes": "IP addresses are for poland.privacy.network.",
@@ -5648,7 +5648,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "138.199.59.197, 138.199.59.208, 138.199.59.37"
+			"remote-addresses": "138.199.59.204, 138.199.59.217, 138.199.59.56"
 		},
 		{
 			"notes": "IP addresses are for pt.privacy.network.",
@@ -5656,7 +5656,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "146.70.59.18, 146.70.59.37, 146.70.59.42"
+			"remote-addresses": "146.70.59.40, 146.70.59.48, 146.70.59.8"
 		},
 		{
 			"notes": "IP addresses are for pt.privacy.network.",
@@ -5664,7 +5664,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "146.70.59.18, 146.70.59.37, 146.70.59.42"
+			"remote-addresses": "146.70.59.40, 146.70.59.48, 146.70.59.8"
 		},
 		{
 			"notes": "IP addresses are for qatar.privacy.network.",
@@ -5736,7 +5736,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "138.199.24.22, 138.199.24.9, 156.146.57.123"
+			"remote-addresses": "138.199.24.22, 138.199.24.25, 138.199.24.9, 156.146.57.115, 156.146.57.123, 156.146.57.198"
 		},
 		{
 			"notes": "IP addresses are for sg.privacy.network.",
@@ -5744,7 +5744,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "138.199.24.22, 138.199.24.9, 156.146.57.123"
+			"remote-addresses": "138.199.24.22, 138.199.24.25, 138.199.24.9, 156.146.57.115, 156.146.57.123, 156.146.57.198"
 		},
 		{
 			"notes": "IP addresses are for sk.privacy.network.",
@@ -5816,7 +5816,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "46.246.41.170, 46.246.41.172, 46.246.8.70"
+			"remote-addresses": "46.246.8.33, 46.246.8.5, 46.246.8.84"
 		},
 		{
 			"notes": "IP addresses are for sweden.privacy.network.",
@@ -5824,7 +5824,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "46.246.41.170, 46.246.41.172, 46.246.8.70"
+			"remote-addresses": "46.246.8.33, 46.246.8.5, 46.246.8.84"
 		},
 		{
 			"notes": "IP addresses are for swiss.privacy.network.",
@@ -5832,7 +5832,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "169.150.197.131, 169.150.197.72, 212.102.36.27"
+			"remote-addresses": "79.142.79.42, 169.150.197.131, 169.150.197.72, 169.150.197.85, 169.150.197.88, 212.102.36.27"
 		},
 		{
 			"notes": "IP addresses are for swiss.privacy.network.",
@@ -5840,7 +5840,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "169.150.197.131, 169.150.197.72, 212.102.36.27"
+			"remote-addresses": "79.142.79.42, 169.150.197.131, 169.150.197.72, 169.150.197.85, 169.150.197.88, 212.102.36.27"
 		},
 		{
 			"notes": "IP addresses are for taiwan.privacy.network.",
@@ -5976,7 +5976,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "102.129.145.199, 191.96.106.11, 191.96.106.66"
+			"remote-addresses": "102.129.145.111, 191.96.106.64, 191.96.106.75"
 		},
 		{
 			"notes": "IP addresses are for us-california.privacy.network.",
@@ -5984,7 +5984,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "102.129.145.199, 191.96.106.11, 191.96.106.66"
+			"remote-addresses": "102.129.145.111, 191.96.106.64, 191.96.106.75"
 		},
 		{
 			"notes": "IP addresses are for us-chicago.privacy.network.",
@@ -5992,7 +5992,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "181.214.164.129, 181.214.165.205, 181.214.166.223"
+			"remote-addresses": "181.214.164.129, 181.214.164.20, 181.214.164.37, 181.214.165.205, 181.214.166.223, 212.102.59.130"
 		},
 		{
 			"notes": "IP addresses are for us-chicago.privacy.network.",
@@ -6000,7 +6000,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "181.214.164.129, 181.214.165.205, 181.214.166.223"
+			"remote-addresses": "181.214.164.129, 181.214.164.20, 181.214.164.37, 181.214.165.205, 181.214.166.223, 212.102.59.130"
 		},
 		{
 			"notes": "IP addresses are for us-denver.privacy.network.",
@@ -6040,7 +6040,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "89.149.16.21, 102.129.153.148, 143.244.34.197"
+			"remote-addresses": "89.149.16.21, 102.129.153.148, 143.244.34.132, 143.244.34.197"
 		},
 		{
 			"notes": "IP addresses are for us-florida.privacy.network.",
@@ -6048,7 +6048,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "89.149.16.21, 102.129.153.148, 143.244.34.197"
+			"remote-addresses": "89.149.16.21, 102.129.153.148, 143.244.34.132, 143.244.34.197"
 		},
 		{
 			"notes": "IP addresses are for us-houston.privacy.network.",
@@ -6168,7 +6168,7 @@
 			"direction": "incoming",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "107.181.184.215, 107.181.184.221, 184.170.252.205"
+			"remote-addresses": "184.170.241.133, 184.170.241.136, 184.170.241.98"
 		},
 		{
 			"notes": "IP addresses are for us3.privacy.network.",
@@ -6176,7 +6176,7 @@
 			"direction": "outgoing",
 			"protocol": "UDP",
 			"process": "/Applications/Tunnelblick.app/Contents/Resources/openvpn/openvpn-2.4.12-openssl-1.1.1v/openvpn",
-			"remote-addresses": "107.181.184.215, 107.181.184.221, 184.170.252.205"
+			"remote-addresses": "184.170.241.133, 184.170.241.136, 184.170.241.98"
 		},
 		{
 			"notes": "IP addresses are for venezuela.privacy.network.",
