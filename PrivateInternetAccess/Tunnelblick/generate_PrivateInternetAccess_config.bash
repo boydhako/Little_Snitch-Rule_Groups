@@ -47,9 +47,7 @@ function PIAGENCFG {
 			done
             
             for direction in incoming outgoing; do
-                for protocol in UDP TCP; do
-                    printf "\t\t{\n\t\t\"action\" : \"allow\",\n\t\t\"direction\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"remote-domains\" : \"%s\"\n\t\t},\n" "$direction" "$protocol" "$vpnbin" "$host" >> $lsrule
-                done
+                printf "\t\t{\n\t\t\"action\" : \"allow\",\n\t\t\"direction\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"remote-domains\" : \"%s\"\n\t\t},\n" "$direction" "$proto" "$vpnbin" "$host" >> $lsrule
             done
 		done
 	done
