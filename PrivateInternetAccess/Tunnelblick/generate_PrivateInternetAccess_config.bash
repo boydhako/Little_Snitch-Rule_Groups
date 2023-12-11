@@ -34,7 +34,7 @@ function PIAGENCFG {
 	for vpnbin in $ovpn; do
 		for host in $servers; do
             for direction in incoming outgoing; do
-                printf "\t\t{\n\t\t\"action\" : \"allow\",\n\t\t\"direction\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"remote-hosts\" : \"%s\"\n\t\t},\n" "$direction" "$proto" "$vpnbin" "$host" >> $lsrule
+                printf "\t\t{\n\t\t\"action\" : \"allow\",\n\t\t\"direction\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"remote-hosts\" : \"%s\"\n\t\t\"notes\" : \"Added from https://github.com/boydhako/Little_Snitch-Rule_Groups\"\n\t\t},\n" "$direction" "$proto" "$vpnbin" "$host" >> $lsrule
             done
 		done
 	done
