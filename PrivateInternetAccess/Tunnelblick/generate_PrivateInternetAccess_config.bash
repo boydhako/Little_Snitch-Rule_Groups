@@ -1,5 +1,4 @@
 #!/bin/bash
-nsservers="208.67.222.222 208.67.220.220"
 tmp="/tmp/$(basename -s .bash $0)"
 tblk="/Applications/Tunnelblick.app"
 piazip="$tmp/pia.zip"
