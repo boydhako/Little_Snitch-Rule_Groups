@@ -3,15 +3,12 @@ nsservers="208.67.222.222 208.67.220.220"
 tmp="/tmp/$(basename -s .bash $0)"
 tblk="/Applications/Tunnelblick.app"
 piazip="$tmp/pia.zip"
-#piasource="https://www.privateinternetaccess.com/openvpn/openvpn-strong-tcp.zip"
 piasource="https://www.privateinternetaccess.com/openvpn/openvpn-strong.zip"
 lsrule="$tmp/pia.lsrules"
 proto="udp"
 
 function GETINFO {
-	#curl -s -o $piazip $piasource
 	curl -o $piazip $piasource
-	#unzip $piazip >/dev/null 2>&1
 	unzip $piazip -d $tmp
 	servers="$(awk '$1 == "remote" {printf $2"\n"}' $tmp/*.ovpn)"
 	proto="$(awk '$1 == "proto" {printf $2"\n"}' $tmp/*.ovpn | sort | uniq | tr [:lower:] [:upper:] )"
@@ -32,20 +29,11 @@ function PIAGENCFG {
 	done
 
 	GETINFO
-	rawip="$tmp/rawiplist.txt"
 
 	printf "{\n\t\"name\": \"Private Internet Access\",\n\t\"description\": \"This rule allows access to Private Internet Access servers.\",\n\t\"rules\": [\n" > $lsrule
 	
 	for vpnbin in $ovpn; do
-		#printf "\t\t{\n\t\t\t\"action\": \"allow\",\n\t\t\t\"process\": \"$vpnbin\",\n\t\t\t\"remote-hosts\": [%s]\n\t\t}\n" "$serverscsv" >> $lsrule
 		for host in $servers; do
-			printf "\n\n=== %s ===\n" "$host"
-			for namesrv in $nsservers; do
-				#dig \@$namesrv $host A 
-				dig \@$namesrv $host A | awk '$4 == "A" {printf $NF"\n"}' >> $rawip
-			#printf "%s : %s\n" "$vpnbin" "$host"
-			done
-            
             for direction in incoming outgoing; do
                 printf "\t\t{\n\t\t\"action\" : \"allow\",\n\t\t\"direction\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"remote-domains\" : \"%s\"\n\t\t},\n" "$direction" "$proto" "$vpnbin" "$host" >> $lsrule
             done
@@ -55,6 +43,6 @@ function PIAGENCFG {
 	printf "\t]\n}\n" >> $lsrule
 	
 	cp $lsrule $PWD
-	#CLEANUP
+	CLEANUP
 }
 PIAGENCFG
