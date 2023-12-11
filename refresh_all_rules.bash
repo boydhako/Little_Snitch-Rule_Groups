@@ -1,4 +1,4 @@
-#!/bin/bash -xv
+#!/bin/bash
 cd $(dirname $0)
 git pull
 for script in $(find $PWD -mindepth 2 -type f -iname "*.bash"); do
