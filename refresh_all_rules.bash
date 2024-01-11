@@ -12,6 +12,6 @@ for script in $(find $PWD -mindepth 2 -type f -iname "*.bash"); do
         export push="1"
     fi
 done
-if [ $push == "1" ]; then
+if [ "$push" == "1" ]; then
     git push
 fi
