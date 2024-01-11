@@ -8,5 +8,8 @@ for script in $(find $PWD -mindepth 2 -type f -iname "*.bash"); do
 	printf "\n##### commiting %s #####\n" "$script"
 	git commit -a -m "Updating from $sname"
     printf "EXITCODE:%s\n" "$?"
+    export push="1"
 done
-git push
+if [ $push == "1" ]; then
+    git push
+fi
