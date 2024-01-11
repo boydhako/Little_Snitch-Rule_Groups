@@ -15,3 +15,4 @@ done
 if [ "$push" == "1" ]; then
     git push
 fi
+unset push
