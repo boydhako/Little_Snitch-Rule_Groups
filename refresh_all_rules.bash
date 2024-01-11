@@ -1,4 +1,4 @@
-#!/bin/bash -xv
+#!/bin/bash
 push="0"
 cd $(dirname $0)
 git pull
