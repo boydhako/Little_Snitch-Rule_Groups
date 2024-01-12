@@ -1,7 +1,7 @@
 #!/bin/bash
 push="0"
 cd $(dirname $0)
-git pull
+git pull 2>/dev/null
 for script in $(find $PWD -mindepth 2 -type f -iname "*.bash"); do
 	printf "\n===== %s =====\n" "$script"
 	sname="$(basename $script)"
