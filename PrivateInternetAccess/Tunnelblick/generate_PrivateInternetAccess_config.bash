@@ -7,7 +7,7 @@ lsrule="$tmp/pia.lsrules"
 proto="udp"
 
 function GETINFO {
-	curl -o $piazip $piasource
+	curl --silent -o $piazip $piasource
 	unzip $piazip -d $tmp
 	servers="$(awk '$1 == "remote" {printf $2"\n"}' $tmp/*.ovpn)"
 	proto="$(awk '$1 == "proto" {printf $2"\n"}' $tmp/*.ovpn | sort | uniq | tr [:lower:] [:upper:] )"
