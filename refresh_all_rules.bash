@@ -1,6 +1,10 @@
 #!/bin/bash
 push="0"
 cd $(dirname $0)
+ping -c 4 github.com
+if [ "$?" != "0" ]; then
+    exit 1
+fi
 git pull 2>/dev/null
 for script in $(find $PWD -mindepth 2 -type f -iname "*.bash"); do
 	printf "\n===== %s =====\n" "$script"
