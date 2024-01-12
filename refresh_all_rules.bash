@@ -1,7 +1,7 @@
 #!/bin/bash
 push="0"
 cd $(dirname $0)
-ping -c 4 github.com
+ping -c 4 github.com > /dev/null
 if [ "$?" != "0" ]; then
     exit 1
 fi
