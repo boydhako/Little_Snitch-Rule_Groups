@@ -29,6 +29,20 @@
       "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
       "protocol" : "udp",
       "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "ports" : "1900",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "ports" : "5228",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
+      "remote" : "any"
     }
   ]
 }
