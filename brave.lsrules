@@ -2846,13 +2846,6 @@
     },
     {
       "action" : "allow",
-      "ports" : "80",
-      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
-      "protocol" : "tcp",
-      "remote" : "any"
-    },
-    {
-      "action" : "allow",
       "ports" : "443",
       "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
       "protocol" : "tcp",
