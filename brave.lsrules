@@ -43,6 +43,13 @@
       "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
       "protocol" : "udp",
       "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "5228",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote" : "any"
     }
   ]
 }
