@@ -1,6 +1,6 @@
 {
-	"name": "Google Chrome",
-	"description": "Google Chrome keeps changing it's path",
+	"name": "Adobe",
+	"description": "Track all the Adobe Software",
 	"rules": [
 	{
 		"action" : "allow",

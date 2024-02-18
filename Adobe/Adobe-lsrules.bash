@@ -7,7 +7,7 @@ remotes="adobe.io adobe-identity.com adobess.com typekit.com akamai.net akamaied
 apps="adoberesourcesynchronizer adobeacrobat adobe_crash_processor adobe_desktop_service core_sync creative_cloud_content_manager.node creative_cloud_helper"
 
 function LSRULEHEAD {
-        printf "{\n\t\"name\": \"Google Chrome\",\n\t\"description\": \"Google Chrome keeps changing it\'s path\",\n\t\"rules\": [\n"
+        printf "{\n\t\"name\": \"Adobe\",\n\t\"description\": \"Track all the Adobe Software\",\n\t\"rules\": [\n"
 }
 function LSRULEFOOT {
         printf "\n\t]\n}\n"
