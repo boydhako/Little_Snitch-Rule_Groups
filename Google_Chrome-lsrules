@@ -2,9 +2,6 @@
 	"name": "Google Chrome",
 	"description": "Google Chrome keeps changing it's path",
 	"rules": [
-/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
-/Applications/Google Chrome.app
-/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/121.0.6167.184/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper
 	{
 		"action" : "allow",
 		"protocol" : "TCP",
