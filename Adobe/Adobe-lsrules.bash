@@ -3,8 +3,8 @@ dirs="/Library/Application_Support /Applications"
 libdir="/Library"
 ports="443 53"
 protocols="TCP UDP"
-remotes="adobe.io adobe.com adobe-identity.com adobess.com typekit.com akamai.net akamaiedge.net fastly.net cloudfront.net"
-apps="adoberesourcesynchronizer adobeacrobat acrobat_update_helper adobe_crash_processor adobe_desktop_service core_sync creative_cloud_content_manager.node creative_cloud_helper"
+remotes="adobe.io adobe.com adobe-identity.com adobess.com typekit.com akamai.net akamaiedge.net fastly.net cloudfront.net adobeoobe.com adobelogin.com adobesc.com"
+apps="adoberesourcesynchronizer adobeacrobat acrobat_update_helper adobe_crash_processor adobe_desktop_service core_sync creative_cloud_content_manager.node creative_cloud_helper adobe_licensing_helper"
 
 function LSRULEHEAD {
         printf "{\n\t\"name\": \"Adobe\",\n\t\"description\": \"Track all the Adobe Software\",\n\t\"rules\": [\n"
@@ -20,9 +20,15 @@ function LSRULEGEN {
         for adobedir in $(sudo find "$dir" -maxdepth 5 -type d -iname "*adobe*" 2>/dev/null | sed 's/ /_/g'); do
             dir="$(echo "$adobedir" | sed 's/_/ /g')"
             for app in $apps; do
-                app="$(echo $app | sed 's/_/ /g')"
+                if [ "$app" != "adobe_licensing_helper" ]; then
+                    app="$(echo $app | sed 's/_/ /g')"
+                fi
                 for apppath in $(sudo find "$dir" -type f -iname "$app" 2>/dev/null| sed 's/ /_/g'); do
-                    apppath="$(echo $apppath | sed 's/_/ /g')"
+                    if [ "$app" != "adobe_licensing_helper" ]; then
+                        apppath="$(echo $apppath | sed 's/_/ /g')"
+                    else
+                        apppath="$(dirname "$apppath" | sed 's/_/ /g')/$app"
+                    fi
                     for port in $ports; do
                         for protocol in $protocols; do
                             if [ "$port" == "53" ]; then
