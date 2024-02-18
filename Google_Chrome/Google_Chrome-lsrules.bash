@@ -8,9 +8,6 @@ function GCHROMEHEAD {
 }
 
 function GCHROMERULES {
-	echo $gc
-	echo $gcdir
-	echo $gch
 	for port in 80 443 5228; do
 		for protocol in TCP UDP; do
 			if [ "$port" == "5228" -a "$protocol" == "UDP" ]; then
