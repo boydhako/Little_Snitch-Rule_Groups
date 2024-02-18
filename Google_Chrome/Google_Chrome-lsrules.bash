@@ -25,7 +25,7 @@ function GCHROMERULES {
 }
 
 function GCHROMEFOOT {
-	printf "\t]\n}\n"
+	printf "\n\t]\n}\n"
 }
 
 function GCHROME {
