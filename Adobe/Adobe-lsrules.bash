@@ -3,8 +3,8 @@ dirs="/Library/Application_Support /Applications"
 libdir="/Library"
 ports="443 53"
 protocols="TCP UDP"
-remotes="adobe.io adobe-identity.com adobess.com typekit.com akamai.net akamaiedge.net fastly.net cloudfront.net"
-apps="adoberesourcesynchronizer adobeacrobat adobe_crash_processor adobe_desktop_service core_sync creative_cloud_content_manager.node creative_cloud_helper"
+remotes="adobe.io adobe.com adobe-identity.com adobess.com typekit.com akamai.net akamaiedge.net fastly.net cloudfront.net"
+apps="adoberesourcesynchronizer adobeacrobat acrobat_update_helper adobe_crash_processor adobe_desktop_service core_sync creative_cloud_content_manager.node creative_cloud_helper"
 
 function LSRULEHEAD {
         printf "{\n\t\"name\": \"Adobe\",\n\t\"description\": \"Track all the Adobe Software\",\n\t\"rules\": [\n"
@@ -25,9 +25,13 @@ function LSRULEGEN {
                     apppath="$(echo $apppath | sed 's/_/ /g')"
                     for port in $ports; do
                         for protocol in $protocols; do
-                            for remote in $remotes; do
-                                printf "\t{\n\t\t\"action\" : \"allow\",\n\t\t\"ports\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"remote-domains\" : \"%s\"\n\t},\n" "$port" "$apppath" "$protocol" "$remote"
-                            done
+                            if [ "$port" == "53" ]; then
+                                printf "\t{\n\t\t\"action\" : \"allow\",\n\t\t\"ports\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"remote\" : \"%s\"\n\t},\n" "$port" "$apppath" "$protocol" "any"
+                            else
+                                for remote in $remotes; do
+                                    printf "\t{\n\t\t\"action\" : \"allow\",\n\t\t\"ports\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"remote-domains\" : \"%s\"\n\t},\n" "$port" "$apppath" "$protocol" "$remote"
+                                done
+                            fi
                         done
                     done
                 done
