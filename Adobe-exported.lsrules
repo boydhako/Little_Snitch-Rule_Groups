@@ -1,0 +1,328 @@
+{
+  "description" : "",
+  "name" : "Adobe",
+  "rules" : [
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/Helpers\/AdobeResourceSynchronizer.app\/Contents\/MacOS\/AdobeResourceSynchronizer",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/ARMDC\/Application\/Acrobat Update Helper.app\/Contents\/MacOS\/Acrobat Update Helper",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-addresses" : "35.164.169.37"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-addresses" : "52.35.253.87"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-addresses" : "52.202.204.11"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-addresses" : "54.148.119.109"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-addresses" : "63.140.36.145"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "acrobat.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "behance.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "dropboxapi.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "googleapis.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "live.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "live.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "microsoft.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "onedrive.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "opendns.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "53",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "udp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/Frameworks\/AdobeCrashReporter.framework\/Versions\/A\/Adobe Crash Processor.app\/Contents\/MacOS\/Adobe Crash Processor",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/Frameworks\/AdobeCrashReporter.framework\/Versions\/A\/Adobe Crash Processor.app\/Contents\/MacOS\/Adobe Crash Processor",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/Frameworks\/AdobeCrashReporter.framework\/Versions\/A\/Adobe Crash Processor.app\/Contents\/MacOS\/Adobe Crash Processor",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/LCC\/adobe_licensing_helper.app\/Contents\/MacOS\/adobe_licensing_helper",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AdobeGCClient.app\/Contents\/MacOS\/AdobeGCClient",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AGSService",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "adobesc.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "adobess.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "typekit.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "80",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
+      "protocol" : "tcp",
+      "remote-addresses" : "142.251.2.94"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "53",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
+      "protocol" : "udp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud.app\/Contents\/MacOS\/Creative Cloud",
+      "protocol" : "udp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
+      "protocol" : "tcp",
+      "remote-domains" : "fastly.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/MacOS\/Creative Cloud Helper",
+      "protocol" : "tcp",
+      "remote-domains" : "dscr.akamai.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/MacOS\/Creative Cloud Helper",
+      "protocol" : "tcp",
+      "remote-domains" : "dscd.akamaiedge.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/MacOS\/Creative Cloud Helper",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/MacOS\/Creative Cloud Helper",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "protocol" : "tcp",
+      "remote-domains" : "dscf.akamaiedge.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.io"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    }
+  ]
+}
