@@ -168,6 +168,20 @@
       "ports" : "443",
       "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
       "protocol" : "tcp",
+      "remote-domains" : "adobe-identity.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
+      "remote-domains" : "adobeoobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Library\/Application Support\/Adobe\/Adobe Desktop Common\/ADS\/Adobe Desktop Service.app\/Contents\/MacOS\/Adobe Desktop Service",
+      "protocol" : "tcp",
       "remote-domains" : "adobe.com"
     },
     {
@@ -204,6 +218,13 @@
       "process" : "\/Library\/Application Support\/Adobe\/AdobeGCClient\/AGSService",
       "protocol" : "tcp",
       "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
     },
     {
       "action" : "allow",
@@ -266,6 +287,34 @@
       "ports" : "443",
       "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
       "protocol" : "tcp",
+      "remote-domains" : "akamai.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
+      "protocol" : "tcp",
+      "remote-domains" : "akamaiedge.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
+      "protocol" : "tcp",
+      "remote-domains" : "akamaiedge.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
+      "protocol" : "tcp",
+      "remote-domains" : "adobelogin.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
+      "protocol" : "tcp",
       "remote-domains" : "adobe.io"
     },
     {
@@ -280,14 +329,21 @@
       "ports" : "443",
       "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/MacOS\/Creative Cloud Helper",
       "protocol" : "tcp",
-      "remote-domains" : "dscr.akamai.net"
+      "remote-domains" : "cloudfront.net"
     },
     {
       "action" : "allow",
       "ports" : "443",
       "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/MacOS\/Creative Cloud Helper",
       "protocol" : "tcp",
-      "remote-domains" : "dscd.akamaiedge.net"
+      "remote-domains" : "akamai.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud\/ACC\/Creative Cloud Helper.app\/Contents\/MacOS\/Creative Cloud Helper",
+      "protocol" : "tcp",
+      "remote-domains" : "akamaiedge.net"
     },
     {
       "action" : "allow",
@@ -308,7 +364,7 @@
       "ports" : "443",
       "process" : "\/Library\/Application Support\/Adobe\/Creative Cloud Libraries\/CCLibrary.app\/Contents\/libs\/node",
       "protocol" : "tcp",
-      "remote-domains" : "dscf.akamaiedge.net"
+      "remote-domains" : "akamaiedge.net"
     },
     {
       "action" : "allow",
