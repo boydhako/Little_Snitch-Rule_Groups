@@ -5,7 +5,7 @@
 		{
 		"action" : "allow",
 		"direction" : "outgoing",
-		"ports" : "any",
+		"port" : "any",
 		"process" : "/usr/local/Cellar/tor/0.4.8.10/bin/tor",
 		"protocol" : "any",
 		"remote" : "any"

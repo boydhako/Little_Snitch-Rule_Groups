@@ -5,7 +5,7 @@ printf "{\n\t\"name\": \"TOR from Homebrew\",\n\t\"description\": \"This rule al
 
 for dir in $dirs; do
     for bin in $(find $dir -type f -name tor); do
-        printf "\t\t{\n\t\t\"action\" : \"allow\",\n\t\t\"direction\" : \"outgoing\",\n\t\t\"ports\" : \"any\",\n\t\t\"process\" : \"%s\",\n\t\t\"protocol\" : \"any\",\n\t\t\"remote\" : \"any\"\n\t\t},\n" "$bin" >> $lsrules
+        printf "\t\t{\n\t\t\"action\" : \"allow\",\n\t\t\"direction\" : \"outgoing\",\n\t\t\"port\" : \"any\",\n\t\t\"process\" : \"%s\",\n\t\t\"protocol\" : \"any\",\n\t\t\"remote\" : \"any\"\n\t\t},\n" "$bin" >> $lsrules
     done
 done
 
