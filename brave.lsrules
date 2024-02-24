@@ -2,7 +2,7 @@
   "description" : "",
   "name" : "Brave Browser",
   "rules" : [
-     {
+    {
       "action" : "allow",
       "ports" : "80",
       "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
@@ -11,7 +11,7 @@
     },
     {
       "action" : "allow",
-      "ports" : "443",
+      "ports" : "3478",
       "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
       "protocol" : "tcp",
       "remote" : "any"
@@ -20,12 +20,19 @@
       "action" : "allow",
       "ports" : "443",
       "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
-      "protocol" : "udp",
+      "protocol" : "tcp",
       "remote" : "any"
     },
     {
       "action" : "allow",
-      "ports" : "53",
+      "ports" : "5228",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "tcp",
+      "remote" : "any"
+    },
+    {
+      "action" : "deny",
+      "ports" : "3478",
       "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
       "protocol" : "udp",
       "remote" : "any"
@@ -46,9 +53,16 @@
     },
     {
       "action" : "allow",
-      "ports" : "5228",
+      "ports" : "53",
       "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
-      "protocol" : "tcp",
+      "protocol" : "udp",
+      "remote" : "any"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Brave Browser.app\/Contents\/MacOS\/Brave Browser",
+      "protocol" : "udp",
       "remote" : "any"
     }
   ]
