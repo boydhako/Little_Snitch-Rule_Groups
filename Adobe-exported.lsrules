@@ -67,13 +67,6 @@
     },
     {
       "action" : "allow",
-      "ports" : "80",
-      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
-      "protocol" : "tcp",
-      "remote-domains" : "digicert.com"
-    },
-    {
-      "action" : "allow",
       "ports" : "443",
       "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
       "protocol" : "tcp",
@@ -106,6 +99,13 @@
       "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
       "protocol" : "tcp",
       "remote-domains" : "behance.net"
+    },
+    {
+      "action" : "allow",
+      "ports" : "80",
+      "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/MacOS\/AdobeAcrobat",
+      "protocol" : "tcp",
+      "remote-domains" : "digicert.com"
     },
     {
       "action" : "allow",
@@ -252,6 +252,13 @@
       "ports" : "443",
       "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
       "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
+      "process" : "\/Applications\/Utilities\/Adobe Sync\/CoreSync\/Core Sync.app\/Contents\/MacOS\/Core Sync",
+      "protocol" : "tcp",
       "remote-domains" : "adobe.io"
     },
     {
@@ -330,13 +337,6 @@
       "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
       "protocol" : "tcp",
       "remote-domains" : "akamai.net"
-    },
-    {
-      "action" : "allow",
-      "ports" : "443",
-      "process" : "\/Applications\/Utilities\/Adobe Creative Cloud Experience\/CCXProcess\/CCXProcess.app\/Contents\/libs\/Creative Cloud Content Manager.node",
-      "protocol" : "tcp",
-      "remote-domains" : "akamaiedge.net"
     },
     {
       "action" : "allow",
