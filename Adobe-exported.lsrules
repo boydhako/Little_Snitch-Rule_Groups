@@ -173,6 +173,13 @@
     {
       "action" : "allow",
       "ports" : "443",
+      "process" : "\/Users\/bako\/Library\/Application Support\/Adobe\/com.adobe.ARMDCHelper\/Adobe Acrobat Updater.app\/Contents\/MacOS\/Acrobat Updater",
+      "protocol" : "tcp",
+      "remote-domains" : "adobe.com"
+    },
+    {
+      "action" : "allow",
+      "ports" : "443",
       "process" : "\/Applications\/Adobe Acrobat DC\/Adobe Acrobat.app\/Contents\/Frameworks\/AdobeCrashReporter.framework\/Versions\/A\/Adobe Crash Processor.app\/Contents\/MacOS\/Adobe Crash Processor",
       "protocol" : "tcp",
       "remote-domains" : "adobe.io"
