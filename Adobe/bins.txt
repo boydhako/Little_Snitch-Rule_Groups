@@ -1,0 +1,15 @@
+AGSService
+Acrobat Update Helper
+Acrobat Updater
+Adobe Crash Processor
+Adobe Desktop Service
+AdobeAcrobat
+AdobeGCClient
+AdobeResourceSynchronizer
+Core Sync
+Creative Cloud Content Manager.node
+Creative Cloud Helper
+Creative Cloud
+Distiller
+adobe_licensing_helper
+node

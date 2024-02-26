@@ -1,0 +1,15 @@
+ /Applications/Adobe Acrobat DC/Acrobat Distiller.app/Contents/MacOS/Distiller,
+ /Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework
+ /Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app
+ /Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/MacOS/AdobeAcrobat,
+ /Applications/Utilities/Adobe Creative Cloud Experience/CCXProcess/CCXProcess.app/Contents
+ /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud Helper.app/Contents
+ /Applications/Utilities/Adobe Creative Cloud/ACC/Creative Cloud.app/Contents
+ /Applications/Utilities/Adobe Sync/CoreSync/Core Sync.app/Contents
+ /Library/Application Support/Adobe/ARMDC/Application/Acrobat Update Helper.app
+ /Library/Application Support/Adobe/Adobe Desktop Common/ADS/Adobe Desktop Service.app
+ /Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe_licensing_helper.app
+ /Library/Application Support/Adobe/AdobeGCClient/AGSService,/
+ /Library/Application Support/Adobe/AdobeGCClient/AdobeGCClient.app/Contents
+ /Library/Application Support/Adobe/Creative Cloud Libraries/CCLibrary.app/Contents
+ /Users/bako/Library/Application Support/Adobe/com.adobe.ARMDCHelper
