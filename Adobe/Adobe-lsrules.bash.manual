@@ -18,11 +18,11 @@ function LSRULEGEN {
     LSRULEHEAD
     for dir in $dirs; do
         dir="$(echo "$dir" | sed 's/_/ /g')"
-        for adobedir in $(sudo find "$dir" -maxdepth 5 -type d -iname "*adobe*" 2>/dev/null | sed 's/ /_/g'); do
+        for adobedir in $(find "$dir" -maxdepth 5 -type d -iname "*adobe*" 2>/dev/null | sed 's/ /_/g'); do
             dir="$(echo "$adobedir" | sed 's/_/ /g')"
             for app in $apps; do
                 app="$(echo $app | sed 's/_/ /g')"
-                for apppath in $(sudo find "$dir" -type f -iname "$app" 2>/dev/null| sed 's/ /_/g'); do
+                for apppath in $(find "$dir" -type f -iname "$app" 2>/dev/null| sed 's/ /_/g'); do
                     apppath="$(echo $apppath | sed 's/_/ /g')"
                     for port in $ports; do
                         for protocol in $protocols; do
@@ -44,7 +44,7 @@ function LSRULEGEN {
             for remote in $remotes; do
                 for dir in $dirs; do
                     for app in $underscoreapps; do
-                        for bindir in $(sudo find "$(echo $dir | sed 's/_/ /g')" -type f -iname "$app" -exec dirname {} \; 2>/dev/null| sed 's/ /_/g'); do
+                        for bindir in $(find "$(echo $dir | sed 's/_/ /g')" -type f -iname "$app" -exec dirname {} \; 2>/dev/null| sed 's/ /_/g'); do
                             printf "\t{\n\t\t\"action\" : \"allow\",\n\t\t\"ports\" : \"%s\",\n\t\t\"process\" : \"%s\",\n\t\t\"protocol\" : \"%s\",\n\t\t\"remote-domains\" : \"%s\"\n\t},\n" "$port" "$(echo $bindir | sed 's/_/ /g')/$app" "$protocol" "$remote"
                         done
                     done
