@@ -6,13 +6,6 @@
 		"action" : "allow",
 		"ports" : "443",
 		"protocol" : "TCP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6315.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "googleapis.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"protocol" : "TCP",
 		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6337.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
 		"remote-domains" : "googleapis.com"
 	},
@@ -20,8 +13,8 @@
 		"action" : "allow",
 		"ports" : "443",
 		"protocol" : "TCP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6315.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "gvt1.com"
+		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6342.2\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
+		"remote-domains" : "googleapis.com"
 	},
 	{
 		"action" : "allow",
@@ -33,9 +26,9 @@
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"protocol" : "UDP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6315.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "googleapis.com"
+		"protocol" : "TCP",
+		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6342.2\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
+		"remote-domains" : "gvt1.com"
 	},
 	{
 		"action" : "allow",
@@ -48,8 +41,8 @@
 		"action" : "allow",
 		"ports" : "443",
 		"protocol" : "UDP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6315.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "gvt1.com"
+		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6342.2\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
+		"remote-domains" : "googleapis.com"
 	},
 	{
 		"action" : "allow",
@@ -60,9 +53,9 @@
 	},
 	{
 		"action" : "allow",
-		"ports" : "80",
-		"protocol" : "TCP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6315.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
+		"ports" : "443",
+		"protocol" : "UDP",
+		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6342.2\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
 		"remote-domains" : "gvt1.com"
 	},
 	{
@@ -70,6 +63,13 @@
 		"ports" : "80",
 		"protocol" : "TCP",
 		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6337.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
+		"remote-domains" : "gvt1.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "80",
+		"protocol" : "TCP",
+		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/124.0.6342.2\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
 		"remote-domains" : "gvt1.com"
 	},
 
