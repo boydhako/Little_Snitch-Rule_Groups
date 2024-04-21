@@ -12350,3 +12350,17 @@
 		"protocol" : "TCP",
 		"remote-domains" : "adobe.com"
 	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
