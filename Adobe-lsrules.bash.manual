@@ -12056,3 +12056,17 @@
 		"protocol" : "TCP",
 		"remote-domains" : "behance.net"
 	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
