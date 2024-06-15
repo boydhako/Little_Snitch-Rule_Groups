@@ -7061,6 +7061,258 @@
 	{
 		"action" : "allow",
 		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
 		"process" : "/Applications/Adobe Acrobat DC/Acrobat Distiller.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
 		"protocol" : "TCP",
 		"remote-domains" : "adobe.io"
@@ -9581,1512 +9833,252 @@
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "adobe.io"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "adobe.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "adobe-identity.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "adobess.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "typekit.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "akamai.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "akamaiedge.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "fastly.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "cloudfront.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "adobeoobe.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "adobelogin.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "adobesc.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "cloudflare.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "opendns.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "behance.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "acrobat.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote-domains" : "substance3d.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "adobe.io"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "adobe.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "adobe-identity.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "adobess.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "typekit.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "akamai.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "akamaiedge.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "fastly.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "cloudfront.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "adobeoobe.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "adobelogin.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "adobesc.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "cloudflare.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "opendns.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "behance.net"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "acrobat.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote-domains" : "substance3d.com"
 	},
 	{
 		"action" : "allow",
 		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "TCP",
 		"remote" : "any"
 	},
 	{
 		"action" : "allow",
 		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.io"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobe-identity.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobess.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "typekit.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamai.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "akamaiedge.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "fastly.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudfront.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobeoobe.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobelogin.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "adobesc.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "cloudflare.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "opendns.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "behance.net"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "acrobat.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "UDP",
-		"remote-domains" : "substance3d.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
-		"protocol" : "TCP",
-		"remote" : "any"
-	},
-	{
-		"action" : "allow",
-		"ports" : "53",
-		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
 		"protocol" : "UDP",
 		"remote" : "any"
 	},
@@ -11345,6 +10337,1770 @@
 	{
 		"action" : "allow",
 		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (Renderer).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper (GPU).app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AcroCEF Helper.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AcroCEF/AcroCEF.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "TCP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Frameworks/AdobeCrashReporter.framework/Versions/A/Adobe Crash Processor.app/Contents/MacOS/Adobe Crash Processor",
+		"protocol" : "UDP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "TCP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/Adobe Acrobat Helper.app/Contents/MacOS/AdobeAcrobat",
+		"protocol" : "UDP",
+		"remote" : "any"
+	},
+	{
+		"action" : "allow",
+		"ports" : "443",
 		"process" : "/Applications/Adobe Acrobat DC/Adobe Acrobat.app/Contents/Helpers/AdobeResourceSynchronizer.app/Contents/MacOS/AdobeResourceSynchronizer",
 		"protocol" : "TCP",
 		"remote-domains" : "adobe.io"
@@ -12434,3 +13190,370 @@
 		"protocol" : "TCP",
 		"remote-domains" : "fastly.net"
 	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "TCP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.io"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobe-identity.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobess.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "typekit.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "akamai.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "akamaiedge.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "fastly.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudfront.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobeoobe.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobelogin.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "adobesc.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "cloudflare.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "opendns.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "behance.net"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "acrobat.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Adobe Desktop Common/LCC/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+	{
+		"action" : "allow",
+		"ports" : "53",
+		"process" : "/Library/Application Support/Adobe/Acrobat DC Helper Frameworks/IMSLib/adobe licensing helper.app/Contents/MacOS/adobe_licensing_helper",
+		"protocol" : "UDP",
+		"remote-domains" : "substance3d.com"
+	},
+
+	]
+}
