@@ -6,22 +6,8 @@
 		"action" : "allow",
 		"ports" : "443",
 		"protocol" : "TCP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/131.0.6776.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "googleapis.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"protocol" : "TCP",
 		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/132.0.6833.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
 		"remote-domains" : "googleapis.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"protocol" : "TCP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/131.0.6776.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "gvt1.com"
 	},
 	{
 		"action" : "allow",
@@ -34,13 +20,6 @@
 		"action" : "allow",
 		"ports" : "443",
 		"protocol" : "UDP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/131.0.6776.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "googleapis.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"protocol" : "UDP",
 		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/132.0.6833.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
 		"remote-domains" : "googleapis.com"
 	},
@@ -48,21 +27,7 @@
 		"action" : "allow",
 		"ports" : "443",
 		"protocol" : "UDP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/131.0.6776.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "gvt1.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "443",
-		"protocol" : "UDP",
 		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/132.0.6833.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
-		"remote-domains" : "gvt1.com"
-	},
-	{
-		"action" : "allow",
-		"ports" : "80",
-		"protocol" : "TCP",
-		"process" : "\/Users\/bako\/Library\/Application Support\/Google\/GoogleUpdater\/131.0.6776.0\/GoogleUpdater.app\/Contents\/MacOS\/GoogleUpdater",
 		"remote-domains" : "gvt1.com"
 	},
 	{
