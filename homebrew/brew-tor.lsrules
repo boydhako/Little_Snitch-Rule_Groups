@@ -2,13 +2,3 @@
 	"name": "TOR from Homebrew",
 	"description": "This rule allows tor from homebrew.",
 	"rules": [
-		{
-		"action" : "allow",
-		"direction" : "outgoing",
-		"port" : "any",
-		"process" : "/usr/local/Cellar/tor/0.4.8.15/bin/tor",
-		"protocol" : "any",
-		"remote" : "any"
-		},
-	]
-}
