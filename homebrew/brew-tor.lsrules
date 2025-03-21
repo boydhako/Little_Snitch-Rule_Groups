@@ -36,3 +36,21 @@
 		},
 	]
 }
+		{
+		"action" : "allow",
+		"direction" : "outgoing",
+		"port" : "any",
+		"process" : "/usr/local/Caskroom/trezor-suite/25.2.2.upgrading/Trezor",
+		"protocol" : "any",
+		"remote" : "any"
+		},
+		{
+		"action" : "allow",
+		"direction" : "outgoing",
+		"port" : "any",
+		"process" : "Suite.app/Contents/Resources/bin/tor/tor",
+		"protocol" : "any",
+		"remote" : "any"
+		},
+	]
+}
