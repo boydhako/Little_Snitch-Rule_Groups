@@ -14,7 +14,7 @@
 		"process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 		"ports" : "80",
 		"via" : "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.135/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper
-/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.133/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/145.0.7632.76/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
 		"remote" : "redirector.gvt1.com"
 	},	{
 		"action" : "allow",
@@ -28,7 +28,7 @@
 		"process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 		"ports" : "80",
 		"via" : "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.135/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper
-/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.133/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/145.0.7632.76/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
 		"remote" : "redirector.gvt1.com"
 	},	{
 		"action" : "allow",
@@ -42,7 +42,7 @@
 		"process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 		"ports" : "443",
 		"via" : "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.135/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper
-/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.133/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper"
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/145.0.7632.76/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper"
 ,		"remote" : "any"
 	},	{
 		"action" : "allow",
@@ -56,7 +56,7 @@
 		"process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 		"ports" : "443",
 		"via" : "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.135/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper
-/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.133/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper"
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/145.0.7632.76/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper"
 ,		"remote" : "any"
 	},	{
 		"action" : "allow",
@@ -70,7 +70,7 @@
 		"process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 		"ports" : "5228",
 		"via" : "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.135/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper
-/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.133/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper"
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/145.0.7632.76/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper"
 ,		"remote" : "any"
 	},	{
 		"action" : "deny",
@@ -84,7 +84,7 @@
 		"process" : "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 		"ports" : "5228",
 		"via" : "/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.135/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper
-/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/144.0.7559.133/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
+/Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/145.0.7632.76/Helpers/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper",
 		"remote" : "any"
 	},
 	]
